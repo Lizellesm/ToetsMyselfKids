@@ -1,0 +1,173 @@
+[
+    {
+        "id":1,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Flitskaarte",
+        "question":"Is almal spesiaal of net sommige mense?",
+        "answer":"Almal is in een of ander opsig spesiaal en het verskillende sterkpunte."       
+    },
+    {
+        "id":2,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Flitskaarte",
+        "question":"Wat beteken dit om spesiaal te wees?",
+        "answer":"Dit beteken om anders te wees, of om beter in iets as ander te wees."       
+    },
+    {
+        "id":3,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Flitskaarte",
+        "question":"Wat beteken dit as ek sê iets is my sterkpunt?",
+        "answer":"Dit is iets wat jy goed doen of waarin jy uitblink."       
+    },
+    {
+        "id":4,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Flitskaarte",
+        "question":"Wat is oefen?",
+        "answer":"Om dieselfde ding 'n paar keer oor te doen om beter te word."       
+    },
+    {
+        "id":5,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Flitskaarte",
+        "question":"Wat beteken verbeter?",
+        "answer":"Om beter te word in iets wat jy doen."       
+    },
+    {
+        "id":6,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Flitskaarte",
+        "question":"Hoe kan jy jouself verbeter?",
+        "answer":"Gebruik jou sterkpunte en oefen hard om die areas waarin jy nie so sterk is nie, te verbeter."       
+    },
+    {
+        "id":7,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Flitskaarte",
+        "question":"Noem vyf maniere om jou liggaam te versorg?",
+        "answer":"1. Eet gesonde kos om sterk te wees. \n2. Oefen gereeld om fiks te bly. \n 3. Drink skoon water elke dag. \n4. Kry genoeg slaap elke aand. \n5. Was jou liggaam gereeld om dit skoon te hou."       
+    },
+    {
+        "id":8,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Flitskaarte",
+        "question":"Waarom is dit belangrik om ons liggame te respekteer?",
+        "answer":"Deur jou liggaam te respekteer, kan jy dit gesond en goed versorg hou."       
+    },
+    {
+        "id":9,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Flitskaarte",
+        "question":"Noem drie maniere hoe jy jou liggaam of die van ander kan respekteer?",
+        "answer":"1. Moenie maats wees met mense wat jou nie respekteer nie. \n 2. Moenie iemand anders slaan of seermaak nie. \n 3. Moenie iets neem of gedwing word om iets te neem wat sleg is vir jou nie."       
+    },
+    {
+        "id":10,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Flitskaarte",
+        "question":"Wat beteken dit om verslaaf te wees aan iets?",
+        "answer":"Om afhanklik van iets te wees of om dit te misbruik."       
+    },
+    {
+        "id":11,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Flitskaarte",
+        "question":"Noem vier items waaraan ons verskaaf kan raak?",
+        "answer":"1. Rook \n2. Snuif van gom. \n3. Drink van alkohol. \n4. Gebruik van dwelmmiddels."       
+    },
+    {
+        "id":12,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Flitskaarte",
+        "question":"Noem vyf redes waarom jy jou en ander se liggame moet respekteer?",
+        "answer":"1. Jou liggaam moet versorg en gerespekteer word. 2. Jou liggaam groei nog en benodig goeie kos, water, oefeninge, slaap en moet skoon gehou word. 3. Beskerm jou liggaam teen skade en giftige stowwe. 4. Ander mense se liggame is privaat; respekteer dit.  5. Jy moet veilig, geliefd en gerespekteer voel sodat jou gevoelens kan ontwikkel."       
+    },
+    {
+        "id":13,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Konflik",
+        "category":"Flitskaarte",
+        "question":"Wat is konflik?",
+        "answer":"Wanneer iemand ons kwaad of hartseer maak en ons iets terug wil doen."       
+    },
+    {
+        "id":14,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Konflik",
+        "category":"Flitskaarte",
+        "question":"Wat lei tot konflik?",
+        "answer":"Wanneer mense dieself ding op verskillende maniere wil doen of verskillend oor iets dink."       
+    },
+    {
+        "id":15,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Konflik",
+        "category":"Flitskaarte",
+        "question":"Noem drie maniere om konflik te hanteer.",
+        "answer":"1. Praat oor die probleem. \n 2. Erken die verskille. \n 3. Voorkom dat die konflik vererger."       
+    },
+    {
+        "id":16,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n collage?",
+        "answer":"'n Versameling prente of woorde oor een onderwerp wat op 'n papier of karton geplak is."       
+    },
+    {
+        "id":17,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Flitskaarte",
+        "question":"Wat beteken rangskik?",
+        "answer":"Om goed in 'n netjiese, mooi of vereiste volgorde te plaas."       
+    }
+    
+]

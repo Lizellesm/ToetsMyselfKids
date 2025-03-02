@@ -1,0 +1,103 @@
+[
+    {
+        "id":1,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Wat is adolessensie?",
+        "answer":"Die tydperk tussen kinderjare en volwassenheid."       
+    },
+    {
+        "id":2,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Wat is puberteit?",
+        "answer":"Die stadium waarin jongmense seksueel ryp word en kinders kan voortbring."       
+    },
+    {
+        "id":3,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Wat is hormone?",
+        "answer":"'n Stof wat deur die liggaam geproduseer word."       
+    },
+    {
+        "id":4,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Wat is liggaamsbeeld?",
+        "answer":"Die manier waarop jy oor jou liggaam dink hoe jy daaroor voel."       
+    },
+    {
+        "id":5,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Wat is selfagting?",
+        "answer":"Die manier waarop jy oor jouself as persoon dink en voel."       
+    }, 
+    {
+        "id":6,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Wat is fisiese kenmerke?",
+        "answer":"Eienskappe van jou liggaam byvoorbeeld blou oë of lang hare."       
+    },
+    {
+        "id":7,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Wat beteken die term 'eienskappe'?",
+        "answer":"Kwaliteite wat 'n persoon besit byvoorbeeld vriendelikheid of eerlikheid."       
+    },
+    {
+        "id":8,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Wat beinvloed 'n mens se liggaamsbeeld?",
+        "answer":"Media soos televisie, sosiale medie en tydskrifte."       
+    },
+    {
+        "id":9,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Hoe ontwikkel ons 'n positiewe liggaamsbeeld?",
+        "answer":"Glo met selfvertroue dat jy waardevol is en geliefd en gerespekteer behoort te word vir wie jy is."       
+    },
+    {
+        "id":10,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Flitskaarte",
+        "question":"Hoe bou ons selfagting?",
+        "answer":"Erken jou sterkpunte en verbeter dit. Versorg jou liggaam, eet gesond, oefen gereeld en genoeg slaap kry. Dit laat mens goed voel wanneer jy goed lyk."       
+    }
+    
+]

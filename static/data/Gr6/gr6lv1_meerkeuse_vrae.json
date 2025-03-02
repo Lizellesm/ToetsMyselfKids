@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Wat is adolessensie?",
+        "options": ["Die tydperk tussen kinderjare en volwassenheid.", "Die fase waarin 'n baba leer loop.", "Wanneer 'n mens ouer as 50 jaar is.", "Die tydperk tussen geboorte en ouderdom 5."],
+        "answer": ["Die tydperk tussen kinderjare en volwassenheid."]
+    },
+    {
+        "id": 2,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Wat is puberteit?",
+        "options": ["Die stadium waarin jongmense seksueel ryp word en kinders kan voortbring.", "Wanneer 'n kind leer praat.", "Die tydperk tussen kinderjare en volwassenheid.", "Die tydperk tussen geboorte en ouderdom 5."],
+        "answer": ["Die stadium waarin jongmense seksueel ryp word en kinders kan voortbring."]
+    },
+    {
+        "id": 3,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Wat is hormone?",
+        "options": ["'n Stof wat deur die liggaam geproduseer word.", "'n Deel van die brein wat leer beïnvloed.", "'n Spier in die liggaam wat help met asemhaling.", "'n Voedingsstof wat ons uit kos kry."],
+        "answer": ["'n Stof wat deur die liggaam geproduseer word."]
+    },
+    {
+        "id": 4,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Wat is liggaamsbeeld?",
+        "options": ["Die manier waarop jy oor jou liggaam dink en hoe jy daaroor voel.", "'n Deel van die brein wat leer beïnvloed.", "Kwaliteite wat 'n persoon besit, byvoorbeeld vriendelikheid of eerlikheid.", "'n Voedingsstof wat ons uit kos kry."],
+        "answer": ["Die manier waarop jy oor jou liggaam dink en hoe jy daaroor voel."]
+    },
+    {
+        "id": 5,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Wat is selfagting?",
+        "options": ["Die manier waarop jy oor jouself as persoon dink en voel.", "Die manier waarop ander mense jou sien.", "Eienskappe van jou liggaam, byvoorbeeld blou oë of lang hare", "Hoe suksesvol jy in sport is."],
+        "answer": ["Die manier waarop jy oor jouself as persoon dink en voel."]
+    },
+    {
+        "id": 6,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Wat is fisiese kenmerke?",
+        "options": ["Eienskappe van jou liggaam, byvoorbeeld blou oë of lang hare.", "Hoe intelligent 'n persoon is.", "Die manier waarop jy oor jou liggaam dink en hoe jy daaroor voel.", "Kwaliteite wat 'n persoon besit, byvoorbeeld vriendelikheid of eerlikheid."],
+        "answer": ["Eienskappe van jou liggaam, byvoorbeeld blou oë of lang hare."]
+    },
+    {
+        "id": 7,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Wat beteken die term 'eienskappe'?",
+        "options": ["Kwaliteite wat 'n persoon besit, byvoorbeeld vriendelikheid of eerlikheid.", "Die tipe klere wat 'n persoon dra.", "Eienskappe van jou liggaam, byvoorbeeld blou oë of lang hare.", "Die kos wat iemand verkies om te eet."],
+        "answer": ["Kwaliteite wat 'n persoon besit, byvoorbeeld vriendelikheid of eerlikheid."]
+    },
+    {
+        "id": 8,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Wat beïnvloed 'n mens se liggaamsbeeld?",
+        "options": ["Media soos televisie, sosiale media en tydskrifte.", "Wat jou ouers vir jou sê om te doen.", "Hoeveel jy slaap elke aand.", "Die tipe kos wat jy eet."],
+        "answer": ["Media soos televisie, sosiale media en tydskrifte."]
+    },
+    {
+        "id": 9,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Hoe ontwikkel ons 'n positiewe liggaamsbeeld?",
+        "options": ["Glo dat jy waardevol is en geliefd en gerespekteer behoort te word vir wie jy is.", "Vergelyk jouself met mense op sosiale media en probeer soos hulle lyk.", "Kyk in die spieël en fokus op jou foute.", "Doen oefeninge en eet gesond."],
+        "answer": ["Glo dat jy waardevol is en geliefd en gerespekteer behoort te word vir wie jy is."]
+    },
+    {
+        "id": 10,
+        "grade": "Graad 6",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Positiewe selfagting",
+        "category": "Meerkeusevrae",
+        "question": "Hoe bou ons selfagting?",
+        "options": ["Erken jou sterkpunte en verbeter dit.", "Vergelyk jouself altyd met ander mense.", "Kyk in die spieël en fokus op jou foute.", "Moenie slaap nie en eet wat jy wil."],
+        "answer": ["Erken jou sterkpunte en verbeter dit."]
+    }
+]
+
+    

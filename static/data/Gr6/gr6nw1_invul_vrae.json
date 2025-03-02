@@ -1,0 +1,385 @@
+[
+    {
+        "id":1,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"Fotosintese is die proses waar plante hulle eie ____ maak met sonlig, koolstofdioksied en water.",
+        "answer":["voedsel", "kos"]
+    },
+    {
+        "id":2,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"_____ is 'n soort suiker wat gebruik word as energiebron vir lewende organismes.",
+        "answer":["glukose"]
+    },
+    {
+        "id":3,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"Op watter deel van 'n plant vind fotosintese plaas?",
+        "answer":["blaar", "blare"]
+    },
+    {
+        "id":4,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"Plante stoor ekstra glukosesuiker in plante as _____.",
+        "answer":["stysel"]
+    },
+    {
+        "id":5,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"Drie kossoorte wat stysel bevat is:  _____, mielies en koring.",
+        "answer":["aartappels", "aartappel"]
+    },
+    {
+        "id":6,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"Plante stoor stysel in hul wortels, stam, vrugte, sade en _____",
+        "answer":["blaar", "blare"]
+    },
+    {
+        "id":7,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"____ is 'n stoorproduk in plante.",
+        "answer":["stysel"]
+    },
+    {
+        "id":8,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"Sonlig, _____ en water is nodig vir fotosintese.",
+        "answer":["koolstofdioksied"]
+    },
+    {
+        "id":9,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"Gluskose en _____ is produkte wat tydens fotosintese vervaardig word.",
+        "answer":["suurstof"]
+    },
+    {
+        "id":10,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"Alle _____ dinge haal asem.",
+        "answer":["lewende", "lewendige", "lewend'"]
+    },
+    {
+        "id":11,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"Die proses om van afval ontslae te raak?",
+        "answer":["uitskeiding"]
+    },
+    {
+        "id":12,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"'n Gas in die lug wat mense en diere nodig het om asem te haal?",
+        "answer":["suurstof"]
+    },
+    {
+        "id":13,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"_____ maak suurstof.",
+        "answer":["plante", "plant"]
+    },
+    {
+        "id":14,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"Watter gas gee mense en dier af wanneer hulle asemhaal.",
+        "answer":["koolstofdioksied"]
+    },
+    {
+        "id":15,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"Plante het _____ , water en sonlig nodig vir fotosintese.",
+        "answer":["koolstofdioksied"]
+    },
+    {
+        "id":16,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"Wanneer gebruik plante 'n klein hoeveelheid suurstof en produseer ook suurstof? (dag of nag)",
+        "answer":["nag"]
+    },
+    {
+        "id":17,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"Wanneer gebruik plante baie koolstofdioksied en stel baie suurstof vry? (dag/nag)",
+        "answer":["dag"]
+    },
+    {
+        "id":18,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"Wat beteken die term 'foto' in die woord fotosintese?",
+        "answer":["lig"]
+    },
+    {
+        "id":19,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Invul vrae",
+        "question":"Watter pigment veroorsaak die groen kleur in blare?",
+        "answer":["chlorofil"]
+    },
+    {
+        "id":20,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Invul vrae",
+        "question":"Een van baie middels in voedsel wat belangrik is vir groei of goeie gesondheid.",
+        "answer":["voedingstowwe"]
+    },
+    {
+        "id":21,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Die vier hoof voedselgroepe is proteïene, vette en olies, vitamineses en minerale en ______.",
+        "answer":["koolhidrate"]
+    },
+    {
+        "id":22,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Voedsel word gegroepeer volgens _____ in jou liggaam en die hoofvoedingstowwe wat hul verskaf.",
+        "answer":["funksie", "funksies"]
+    },
+    {
+        "id":23,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Stysel en suikers gee vir jou liggaan _____.",
+        "answer":["energie"]
+    },
+    {
+        "id":24,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Watter voedselgroep is die beste bron van energie?",
+        "answer":["koolhidrate"]
+    },
+    {
+        "id":25,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Vette en olies beskerm jou senuwees en _____.",
+        "answer":["organe"]
+    },
+    {
+        "id":26,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Proteïene is belangrik vir spierherstel en _____.",
+        "answer":["groei"]
+    },
+    {
+        "id":27,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"In watter voedselgroep val vis?",
+        "answer":["proteiene","proteïene"]
+    },
+    {
+        "id":28,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Watter twee hooffunksies het vette in die menslike liggaam? Energie en ____",
+        "answer":["isolasie"]
+    },
+    {
+        "id":29,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Watter mineraal bou sterk bene?",
+        "answer":["kalsium"]
+    },
+    {
+        "id":30,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Watter voedselgroep in onoplosbaar en 'n vloeistof?",
+        "answer":["olie"]
+    },
+    {
+        "id":31,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Watter voedselgroep beveg verkoues?",
+        "answer":["vitamiene", "vitamienes"]
+    },
+    {
+        "id":32,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Aan watter voedselgroep behoort kalsium, yster en jodium?",
+        "answer":["minerale"]
+    },
+    {
+        "id":33,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"In watter voedselgroep val jogurt?",
+        "answer":["minerale"]
+    },
+    {
+        "id":34,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Wat noem ons goed wat my kos gevoeg word om die smaak, kleur, geur of tekstuur te verbeter?",
+        "answer":["by-middels"]
+    },
+    {
+        "id":35,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Voedsel iln pakkies, blikkies en bottesl noem ons  _____ voedsel.",
+        "answer":["verwerkte"]
+    },
+    {
+        "id":36,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Die by-middel om voedsel se smaak of reuk te verbeter.",
+        "answer":["geurmiddels", "geurmiddel"]
+    },
+    {
+        "id":37,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Die by-middel om voedsel langer te laat hou.",
+        "answer":["preserveermiddel", "preserveermiddels"]
+    },
+    {
+        "id":38,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Invul vrae",
+        "question":"Die by-middel om voedsel se voorkoms te verbeter.",
+        "answer":["kleursel", "kleurmiddel", "kleurmiddels"]
+    }
+    
+    
+
+]

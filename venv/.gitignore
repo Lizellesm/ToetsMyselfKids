@@ -1,0 +1,38 @@
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Flask instance and secrets
+instance/
+config.py
+secrets.py
+*.env
+
+# Logs and temporary files
+*.log
+logs/
+*.tmp
+*.temp
+*.bak
+
+# SQLite databases
+*.sqlite3
+*.db
+
+# Generated files
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE and OS-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

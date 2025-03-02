@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graad 5</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+<body class="d-flex flex-column min-vh-100 bg-body-tertiary">
+    {% include 'header.html' %}
+    <div class="container my-5">
+        <h2 class="pb-2 border-bottom">Graad 5</h2>
+        <div class="row">
+            <!-- Hard-coded data for subjects -->
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/nw.jpg" class="card-img-top" alt="Natuurwetenskap">
+                    <div class="card-body">
+                        <h5 class="card-title">Natuurwetenskap</h5>
+                        <p class="card-text">Learn about the wonders of science.</p>
+                        <form action="#" method="POST">
+                            <input type="hidden" name="subject" value="Natuurwetenskap">
+                            <div class="form-group">
+                                <label for="quarter">Select Kwartaal:</label>
+                                <select class="form-control" id="quarter" name="quarter">
+                                    <option value="Kwartaal 1">Kwartaal 1</option>
+                                    <option value="Kwartaal 2">Kwartaal 2</option>
+                                    <option value="Kwartaal 3">Kwartaal 3</option>
+                                    <option value="Kwartaal 4">Kwartaal 4</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary mt-2">Go</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/gesk.jpg" class="card-img-top" alt="Geskiedenis">
+                    <div class="card-body">
+                        <h5 class="card-title">Geskiedenis</h5>
+                        <p class="card-text">Explore the beauty of history.</p>
+                        <form action="#" method="POST">
+                            <input type="hidden" name="subject" value="Geskiedenis">
+                            <div class="form-group">
+                                <label for="quarter">Select Kwartaal:</label>
+                                <select class="form-control" id="quarter" name="quarter">
+                                    <option value="Kwartaal 1">Kwartaal 1</option>
+                                    <option value="Kwartaal 2">Kwartaal 2</option>
+                                    <option value="Kwartaal 3">Kwartaal 3</option>
+                                    <option value="Kwartaal 4">Kwartaal 4</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary mt-2">Go</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/lv.jpg" class="card-img-top" alt="Lewensvaardigheid">
+                    <div class="card-body">
+                        <h5 class="card-title">Lewensvaardigheid</h5>
+                        <p class="card-text">Learn about life skills.</p>
+                        <form action="#" method="POST">
+                            <input type="hidden" name="subject" value="Lewensvaardigheid">
+                            <div class="form-group">
+                                <label for="quarter">Select Kwartaal:</label>
+                                <select class="form-control" id="quarter" name="quarter">
+                                    <option value="Kwartaal 1">Kwartaal 1</option>
+                                    <option value="Kwartaal 2">Kwartaal 2</option>
+                                    <option value="Kwartaal 3">Kwartaal 3</option>
+                                    <option value="Kwartaal 4">Kwartaal 4</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary mt-2">Go</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/wisk.jpg" class="card-img-top" alt="Wiskunde">
+                    <div class="card-body">
+                        <h5 class="card-title">Wiskunde</h5>
+                        <p class="card-text">Explore the beauty of mathematics.</p>
+                        <form action="#" method="POST">
+                            <input type="hidden" name="subject" value="Wiskunde">
+                            <div class="form-group">
+                                <label for="quarter">Select Kwartaal:</label>
+                                <select class="form-control" id="quarter" name="quarter">
+                                    <option value="Kwartaal 1">Kwartaal 1</option>
+                                    <option value="Kwartaal 2">Kwartaal 2</option>
+                                    <option value="Kwartaal 3">Kwartaal 3</option>
+                                    <option value="Kwartaal 4">Kwartaal 4</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary mt-2">Go</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/afr.jpg" class="card-img-top" alt="Afrikaans">
+                    <div class="card-body">
+                        <h5 class="card-title">Afrikaans</h5>
+                        <p class="card-text">Learn about the Afrikaans language.</p>
+                        <form action="#" method="POST">
+                            <input type="hidden" name="subject" value="Afrikaans">
+                            <div class="form-group">
+                                <label for="quarter">Select Kwartaal:</label>
+                                <select class="form-control" id="quarter" name="quarter">
+                                    <option value="Kwartaal 1">Kwartaal 1</option>
+                                    <option value="Kwartaal 2">Kwartaal 2</option>
+                                    <option value="Kwartaal 3">Kwartaal 3</option>
+                                    <option value="Kwartaal 4">Kwartaal 4</option>
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary mt-2">Go</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/eng.jpg" class="card-img-top" alt="Engels">
+                    <div class="card-body">
+                        <h5 class="card-title">Engels</h5>
+                        <p class="card-text">Learn about the English language.</p>
+                        <form action="#" method="POST">
+                            <input type="hidden" name="subject" value="Natuurwetenskap">
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">Kwartaal 1</li>
+                                <li class="list-group-item">Kwartaal 2</li>
+                                <li class="list-group-item">Kwartaal 3</li>
+                                <li class="list-group-item">Kwartaal 4</li>
+                              </ul>
+                            
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% include 'footer.html' %}
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+</body>
+</html>

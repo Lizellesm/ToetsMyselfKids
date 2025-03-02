@@ -1,0 +1,502 @@
+[
+    {
+        "id":1,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Wat is die proses van fotosintese? (6)",
+        "answer":"Tydens fotosintese gebruik die plant ligenergie van die Son, koolstofdioksied uit die lug en water uit die grond om glukose('n suiker) en suurstof te produseer. Dit vind hoofsaaklik in die blare plaas. Die blare is dun en plat sodat die plant die sonlig maklik kan absorbeer. "       
+    },
+    {
+        "id":2,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Wat is glukose?",
+        "answer":"'n Soort suiker wat gebruik word as 'n energiebron vir baie lewende organismes."       
+    },
+    {
+        "id":3,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Waar vind fotosintese plaas?",
+        "answer":"Fotosintese vind hoofsaaklik in die blare plaas."       
+    },
+    {
+        "id":4,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Wat gebeur wanneer plante meer glukose maak as wat hul kan gebruik?",
+        "answer":"Plante omskep die glukosesuiker in stysel."       
+    },
+    {
+        "id":5,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Noem vyf dele van 'n plant waar stysel gestoor word?",
+        "answer":"Blare, stam, wortels, vrugte of sade."       
+    },
+    {
+        "id":6,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Noem drie kossoorte wat stysel bevat?",
+        "answer":"Aartappels / Mielies / Graansoorte soos koring."       
+    },
+    {
+        "id":7,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Wat is stysel?",
+        "answer":"'n Stoorproduk in plante."       
+    },
+    {
+        "id":8,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Noem drie dinge wat plante nodig het vir fotosintese?",
+        "answer":"1. Sonlig 2. Koolstofdioksied 3. Water"       
+    },
+    {
+        "id":9,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Noem twee produkte wat plante tydens fotosintese vervaardig?",
+        "answer":"1. Suurstof 2. Glukose"       
+    },
+    {
+        "id":10,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Haal plante asem?",
+        "answer":"Ja, alle lewende dinge haal asem."       
+    },
+    {
+        "id":11,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Wat is uitskeiding?",
+        "answer":"Uitskeiding is die proses waar lewende dinge van hul afval onstlae raak."       
+    },
+    {
+        "id":12,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Wat is suurstof?",
+        "answer":"'n Gas in die lug wat mense en diere nodig het om asem te haal. "       
+    },
+    {
+        "id":13,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Waar kom suurstof vandaan?",
+        "answer":"Plante maak suurstof."       
+    },
+    {
+        "id":14,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Wat is koolstofdioksied?",
+        "answer":"'n Gas in die lug wat mense en diere afgee wanneer hulle asemhaal."       
+    },
+    {
+        "id":15,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Watter lewende ding het koolstofdioksied nodig en waarvoor?",
+        "answer":"Plante het dit nodig vir fotosintese."       
+    }, 
+    {
+        "id":16,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Wat doen plante in die nag?",
+        "answer":"Plante haal net asem. Hulle gebruik 'n bietjie suurstof en stel 'n bietjie koolstofdioksied vry."       
+    },
+    {
+        "id":17,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Wat doen plante in die dag?",
+        "answer":"Hulle haal asem en fotosinteer. Hulle gebruik meer koolstofdioksied vir fotosintese as wat hulle vrystel. Hulle vervaardig meer suurstof as wat hulle kan gebruik."       
+    },
+    {
+        "id":18,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Wat beteken die woord 'fotosintese? ('foto' en 'sintese')",
+        "answer":"Foto' beteken 'lig'.  'Sintese' beteken 'om saam te stel'. "       
+    },
+    {
+        "id":19,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & lug",
+        "category":"Flitskaarte",
+        "question":"Watter pigment gee blare die groen kleur?",
+        "answer":"chlorofil "       
+    },
+    {
+        "id":20,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Plante & voedsel",
+        "category":"Flitskaarte",
+        "question":"Wat is voedingstowwe?",
+        "answer":"Een van baie middels in voedsel wat belangrik is vir groei of goeie gesondheid."       
+    },
+    {
+        "id":21,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Wat is die vier hoof voedselgroepe?",
+        "answer":"1. Koolhidrate \n2. Proteïene \n3. Vette en olies \n4.Vitamiene en minerale"       
+    }, 
+    {
+        "id":22,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Op watter basis word voedsel in voedselgroepe geklassifiseer? ",
+        "answer":"1. Volgens die funksies wat hulle in die liggaam verrig. \n2. Die hoof voedingstowwe wat hulle verskaf."       
+    },
+    {
+        "id":23,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Wat is die primêre funksie van koolhidrate in die menslike dieet?",
+        "answer":"Koolhidrate verskaf hoofsaaklik energie aan die liggaam."       
+    },
+    {
+        "id":24,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Watter tipe voedingstowwe is koolhidrate?",
+        "answer":"Suikers en stysel"       
+    },
+    {
+        "id":25,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Noem een voorbeeld van 'n suikerige koolhidraat en een van 'n styselrige koolhidraat.",
+        "answer":"1. Suikerig: Suiker, heuning, of gedroogde vrugte. \n2. Styselrig: Rys, brood, pasta, aartappels, of mieliemeel."       
+    },
+    {
+        "id":26,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Watter twee belangrike funksies het proteïene in die menslike liggaam?",
+        "answer":"Groei en herstel "       
+    },
+    {
+        "id":27,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Noem enige twee voorbeelde van proteïenryke kosse.",
+        "answer":"Vleis, vis, kaas, eiers of bone. "       
+    },
+    {
+        "id":28,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Noem drie voordele van die insluiting van vette en olies in jou dieet.",
+        "answer":"1. Dit verskaf energie. \n2. Dit hou jou warm. \n3. Dit beskerm jou senuwees en organe. "       
+    },
+    {
+        "id":29,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Noem twee voorbeelde van vette en een voorbeeld van olie.",
+        "answer":"Vette: Botter, margarien \nOlie: sonneblomolie. "       
+    },
+    {
+        "id":30,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Beskryf hoe vette en olies lyk. Noem drie kenmerke.",
+        "answer":"1. Hulle kan nie met water meng nie. \n2. Vette is solied by kamertemperatuur. \n3. Olie is vloeibaar by kamertemperatuur."       
+    },
+    {
+        "id":31,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Wat is die twee hoof funksies van vitamiene en minerale in die menslike liggaam?",
+        "answer":"1. Vitamiene help om die immuunstelsel gesond te hou en veg teen verkoues en siektes. \n2. Minerale dra by tot die opbou van bene en tande. "       
+    },
+    {
+        "id":32,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Noem drie minerale?",
+        "answer":"1. Kalsium \n2. Yster \n3. Jodium "       
+    },
+    {
+        "id":33,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Noem twee voorbeelde van voedsel wat ryk is aan vitamienes en minerale.",
+        "answer":"1. Vitamienes = vrugte en groente  \n2. Minerale = melk en yogurt "       
+    },
+    {
+        "id":34,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Wat is voedsel-bymiddels?",
+        "answer":"Enige middel wat by voedsel gevoeg word om dit te preserveer, kleur of geur te gee, of die smaak of voorkoms te verbeter."       
+    },
+    {
+        "id":35,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Wat is verwerkte voedsel?",
+        "answer":"Alle voedsel in verpakkings soos blikkies, bottels of pakkies."       
+    },
+    {
+        "id":36,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Wat is geurmiddels?",
+        "answer":"'n Voedsel by-middel om voedsel se smaak of reuk te verbeter."       
+    },
+    {
+        "id":37,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Wat is preserveermiddels?",
+        "answer":"'n Voedsel by-middel wat gebruik word om voedsel te preserveer of langer vars te hou."       
+    },
+    {
+        "id":38,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Flitskaarte",
+        "question":"Wat is kleursel?",
+        "answer":"'n Voedsel by-middel wat gebruik word om voedsel se voorkoms te verbeter."       
+    },
+    {
+        "id":39,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n dieet'?",
+        "answer":"Die verskeidenheid voedsel wat 'n mens gewoonlik van dag tot da eet."       
+    },
+    {
+        "id":40,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n gebalanseerde dieet'?",
+        "answer":"'n Dieet met die regte hoeveelhede verskillende voedingstowwe."       
+    },
+    {
+        "id":41,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
+        "question":"Wat is vesel?",
+        "answer":"Harde plantvoedselmateriaal wat help met jou spysvertering.'"       
+    },
+    {
+        "id":42,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Dieet",
+        "question":"Wat is ongesonde kos?",
+        "answer":"Hoë-energie voedsel met 'n lae voedingswaarde.'"       
+    },
+    {
+        "id":43,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Dieet",
+        "question":"Wat is kitskos?",
+        "answer":"Vinnige voorbereide en geprosesseerde voedsel soos wegneemetes."       
+    },
+    {
+        "id":44,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Dieet",
+        "question":"Noem twee siektes wat ons kry ons a.g.v 'n swak dieet?",
+        "answer":"1. Diabetes  2. Versug 3. Tandbederf 4. Kwashiokor."       
+    },
+    {
+        "id":45,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Dieet",
+        "question":"Wat is diabetes?",
+        "answer":"'n Siekte waar die liggaam nie bloedsuiker vlakke kan beheer nie."       
+    },
+    {
+        "id":46,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Dieet",
+        "question":"Wat is vetsug?",
+        "answer":"Om baie oorgewig te wees."       
+    },
+    {
+        "id":47,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Dieet",
+        "question":"Wat is kwashiorkor?",
+        "answer":"'n Vorm van wanvoeding veroorsaak deru onvoldoende proteïene in die dieet."       
+    },
+    {
+        "id":48,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Voedselverwerking",
+        "question":"Wat is voedselverwerking?",
+        "answer":"Die manier waarop rou voedselprodukte verander word in finale voedsel produkte."       
+    },
+    {
+        "id":49,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Voedselvererking",
+        "question":"Wat is gefortifiseerde voedsel?",
+        "answer":"Voedsel waarby vitamiene en mineral gevoeg word."       
+    },
+    {
+        "id":50,
+        "grade":"Graad 6",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Voedselgroepe",
+        "category":"Verwerking metodes",
+        "question":"Wat is gefortifiseerde voedsel?",
+        "answer":"Voedsel waarby vitamiene en mineral gevoeg word."       
+    }
+]
