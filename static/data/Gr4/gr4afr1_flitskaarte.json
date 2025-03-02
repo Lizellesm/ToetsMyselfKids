@@ -4,7 +4,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"ma",
         "answer":"moeder"       
@@ -14,7 +14,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"pa",
         "answer":"vader"       
@@ -24,7 +24,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"verhale",
         "answer":"storie"       
@@ -34,7 +34,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"smaaklik",
         "answer":"heerlik"       
@@ -44,7 +44,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"byna",
         "answer":"amper"       
@@ -54,7 +54,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"gesegde",
         "answer":"werkwoord"       
@@ -64,7 +64,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"taak",
         "answer":"werk/opdrag"       
@@ -74,7 +74,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"benoud",
         "answer":"bang"       
@@ -84,7 +84,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"pla",
         "answer":"terg"       
@@ -94,7 +94,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"eensaam",
         "answer":"alleen"       
@@ -104,7 +104,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"gou",
         "answer":"vinnig"       
@@ -114,7 +114,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"nors",
         "answer":"kwaad"       
@@ -124,7 +124,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"baie",
         "answer":"heelwat"       
@@ -134,7 +134,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"karre",
         "answer":"motors"       
@@ -144,7 +144,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"praat",
         "answer":"gesels"       
@@ -154,7 +154,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"maat",
         "answer":"vriend"       
@@ -164,7 +164,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"hartseer",
         "answer":"ongelukkig"       
@@ -174,7 +174,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"beduie",
         "answer":"wys"       
@@ -184,7 +184,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"feit",
         "answer":"waarheid"        
@@ -194,7 +194,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Sinonieme",
+        "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"stry",
         "answer":"baklei"        
@@ -204,7 +204,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"vet",
         "answer":"maer"        
@@ -214,7 +214,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"maklik",
         "answer":"moeilik"        
@@ -224,7 +224,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"skoon",
         "answer":"vuil"        
@@ -234,7 +234,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"skerp",
         "answer":"stomp"        
@@ -244,7 +244,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"swaar",
         "answer":"lig"        
@@ -254,7 +254,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"vriendelik",
         "answer":"onvriendelik"        
@@ -264,7 +264,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"leeg",
         "answer":"vol"        
@@ -274,7 +274,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"reg",
         "answer":"verkeerd"        
@@ -284,7 +284,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"onder",
         "answer":"bo"        
@@ -294,7 +294,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"wyd",
         "answer":"nou"        
@@ -304,7 +304,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"lui",
         "answer":"fluks"        
@@ -314,7 +314,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"vinnig",
         "answer":"stadig"        
@@ -324,7 +324,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"diep",
         "answer":"vlak"        
@@ -334,7 +334,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"baie",
         "answer":"min"        
@@ -344,7 +344,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"lank",
         "answer":"kort"        
@@ -354,7 +354,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"binne",
         "answer":"buite"        
@@ -364,7 +364,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"ryk",
         "answer":"arm"        
@@ -374,7 +374,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"droog",
         "answer":"nat"        
@@ -384,7 +384,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"smaaklik",
         "answer":"onsmaaklik"        
@@ -394,7 +394,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"lelik",
         "answer":"mooi"        
@@ -404,7 +404,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"siek",
         "answer":"gesond"        
@@ -414,7 +414,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"yskoud",
         "answer":"vuurwarm"        
@@ -424,7 +424,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"ver",
         "answer":"naby"        
@@ -434,7 +434,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Antonieme",
+        "chapter":"Antonieme",
         "category":"Flitskaarte",
         "question":"jonk",
         "answer":"oud"        
@@ -444,7 +444,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"meneer",
         "answer":"juffrou"        
@@ -454,7 +454,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"bul",
         "answer":"koei"        
@@ -464,7 +464,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"hings",
         "answer":"merrie"        
@@ -474,7 +474,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"koning",
         "answer":"koningin"        
@@ -484,7 +484,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"mannetjie",
         "answer":"wyfie"        
@@ -494,7 +494,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"reun",
         "answer":"teef"        
@@ -504,7 +504,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"nefie",
         "answer":"niggie"        
@@ -514,7 +514,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"oupa",
         "answer":"ouma"        
@@ -524,7 +524,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"oom",
         "answer":"tannie"        
@@ -534,7 +534,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"prins",
         "answer":"prinses"        
@@ -544,7 +544,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"seun",
         "answer":"dogter"        
@@ -554,7 +554,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"ram",
         "answer":"ooi"        
@@ -564,7 +564,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"vader",
         "answer":"moeder"        
@@ -574,7 +574,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"vriend",
         "answer":"vriendin"        
@@ -584,7 +584,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"pappa",
         "answer":"mamma"        
@@ -594,7 +594,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"haan",
         "answer":"hen"        
@@ -604,7 +604,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"bakker",
         "answer":"bakster"        
@@ -614,7 +614,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"sportman",
         "answer":"sportvrou"        
@@ -624,7 +624,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"broer",
         "answer":"suster"        
@@ -634,7 +634,7 @@
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
-        "topic":"Vroulik",
+        "chapter":"Vroulik",
         "category":"Flitskaarte",
         "question":"bruidegom",
         "answer":"bruid"        
@@ -644,7 +644,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "juffrou",
         "answer": "meneer"
@@ -654,7 +654,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "koei",
         "answer": "bul"
@@ -664,7 +664,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "merrie",
         "answer": "hings"
@@ -674,7 +674,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "koningin",
         "answer": "koning"
@@ -684,7 +684,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "wyfie",
         "answer": "mannetjie"
@@ -694,7 +694,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "teef",
         "answer": "reun"
@@ -704,7 +704,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "niggie",
         "answer": "nefie"
@@ -714,7 +714,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "ouma",
         "answer": "oupa"
@@ -724,7 +724,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "tannie",
         "answer": "oom"
@@ -734,7 +734,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "prinses",
         "answer": "prins"
@@ -744,7 +744,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "dogter",
         "answer": "seun"
@@ -754,7 +754,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "ooi",
         "answer": "ram"
@@ -764,7 +764,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "moeder",
         "answer": "vader"
@@ -774,7 +774,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "vriendin",
         "answer": "vriend"
@@ -784,7 +784,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "mamma",
         "answer": "pappa"
@@ -794,7 +794,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "hen",
         "answer": "haan"
@@ -804,7 +804,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "bakster",
         "answer": "bakker"
@@ -814,7 +814,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "sportvrou",
         "answer": "sportman"
@@ -824,7 +824,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "sister",
         "answer": "broer"
@@ -834,7 +834,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "bruid",
         "answer": "bruidegom"
@@ -844,7 +844,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "juffrou",
         "answer": "meneer"
@@ -854,7 +854,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "koei",
         "answer": "bul"
@@ -864,7 +864,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "merrie",
         "answer": "hings"
@@ -874,7 +874,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "koningin",
         "answer": "koning"
@@ -884,7 +884,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "wyfie",
         "answer": "mannetjie"
@@ -894,7 +894,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "teef",
         "answer": "reun"
@@ -904,7 +904,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "niggie",
         "answer": "nefie"
@@ -914,7 +914,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "ouma",
         "answer": "oupa"
@@ -924,7 +924,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "tannie",
         "answer": "oom"
@@ -934,7 +934,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "prinses",
         "answer": "prins"
@@ -944,7 +944,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "dogter",
         "answer": "seun"
@@ -954,7 +954,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "ooi",
         "answer": "ram"
@@ -964,7 +964,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "moeder",
         "answer": "vader"
@@ -974,7 +974,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "vriendin",
         "answer": "vriend"
@@ -984,7 +984,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "mamma",
         "answer": "pappa"
@@ -994,7 +994,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "hen",
         "answer": "haan"
@@ -1004,7 +1004,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "bakster",
         "answer": "bakker"
@@ -1014,7 +1014,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "sportvrou",
         "answer": "sportman"
@@ -1024,7 +1024,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic":  "Manlik",
+        "chapter":  "Manlik",
         "category": "Flitskaarte",
         "question": "suster",
         "answer": "broer"
@@ -1034,7 +1034,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Manlik",
+        "chapter": "Manlik",
         "category": "Flitskaarte",
         "question": "bruid",
         "answer": "bruidegom"
@@ -1044,7 +1044,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "Moenie 'n kat sonder handskoene aanpak nie.",
         "answer": "Wees versigtig vir iemand."
@@ -1054,7 +1054,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "Die kat uit die boom kyk.",
         "answer": "Kyk eers goed voor jy iets besluit."
@@ -1064,7 +1064,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "'n Kat in die sak koop.",
         "answer": "Iets koop wat min werd is."
@@ -1074,7 +1074,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "As die kat weg is, is die muis baas.",
         "answer": "As niemand kyk nie, maak ek nes ek wil."
@@ -1084,7 +1084,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "'n Haastig hond verbrand sy mond.",
         "answer": "'n Mens moet nie oorhaastig optree nie."
@@ -1094,7 +1094,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "Katvoet loop.",
         "answer": "Wees versigtig."
@@ -1104,7 +1104,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "Jou uit die voete maak.",
         "answer": "Vlug of weghardloop."
@@ -1114,7 +1114,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "Oor die hond se stert.",
         "answer": "Die ergste is al verby."
@@ -1124,7 +1124,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "Iets lag-lag doen.",
         "answer": "Die ergste is al verby."
@@ -1134,7 +1134,7 @@
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
-        "topic": "Idiome",
+        "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "Uit die veld geslaan.",
         "answer": "Baie verbaas."

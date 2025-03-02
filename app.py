@@ -32,6 +32,10 @@ def gr4nw1():
 def gr4lv1():
     return render_template('gr4lv1.html')
 
+@app.route('/gr4afr1')
+def gr4afr1():
+    return render_template('gr4afr1.html')
+
 
 @app.route('/homegr6')
 def homegr6():
