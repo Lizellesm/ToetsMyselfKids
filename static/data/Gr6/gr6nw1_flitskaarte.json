@@ -334,7 +334,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Flitskaarte",
         "question":"Wat is voedsel-bymiddels?",
         "answer":"Enige middel wat by voedsel gevoeg word om dit te preserveer, kleur of geur te gee, of die smaak of voorkoms te verbeter."       
@@ -344,7 +344,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Flitskaarte",
         "question":"Wat is verwerkte voedsel?",
         "answer":"Alle voedsel in verpakkings soos blikkies, bottels of pakkies."       
@@ -354,7 +354,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Flitskaarte",
         "question":"Wat is geurmiddels?",
         "answer":"'n Voedsel by-middel om voedsel se smaak of reuk te verbeter."       
@@ -364,7 +364,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Flitskaarte",
         "question":"Wat is preserveermiddels?",
         "answer":"'n Voedsel by-middel wat gebruik word om voedsel te preserveer of langer vars te hou."       
@@ -374,7 +374,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Flitskaarte",
         "question":"Wat is kleursel?",
         "answer":"'n Voedsel by-middel wat gebruik word om voedsel se voorkoms te verbeter."       
@@ -386,7 +386,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Dieet",
         "category":"Flitskaarte",
-        "question":"Wat is 'n dieet'?",
+        "question":"Wat is 'n dieet?",
         "answer":"Die verskeidenheid voedsel wat 'n mens gewoonlik van dag tot da eet."       
     },
     {
@@ -414,8 +414,8 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
-        "category":"Dieet",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
         "question":"Wat is ongesonde kos?",
         "answer":"Hoë-energie voedsel met 'n lae voedingswaarde.'"       
     },
@@ -424,8 +424,8 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
-        "category":"Dieet",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
         "question":"Wat is kitskos?",
         "answer":"Vinnige voorbereide en geprosesseerde voedsel soos wegneemetes."       
     },
@@ -434,8 +434,8 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
-        "category":"Dieet",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
         "question":"Noem twee siektes wat ons kry ons a.g.v 'n swak dieet?",
         "answer":"1. Diabetes  2. Versug 3. Tandbederf 4. Kwashiokor."       
     },
@@ -444,8 +444,8 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
-        "category":"Dieet",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
         "question":"Wat is diabetes?",
         "answer":"'n Siekte waar die liggaam nie bloedsuiker vlakke kan beheer nie."       
     },
@@ -454,8 +454,8 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
-        "category":"Dieet",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
         "question":"Wat is vetsug?",
         "answer":"Om baie oorgewig te wees."       
     },
@@ -464,8 +464,8 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
-        "category":"Dieet",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
         "question":"Wat is kwashiorkor?",
         "answer":"'n Vorm van wanvoeding veroorsaak deru onvoldoende proteïene in die dieet."       
     },
@@ -474,8 +474,8 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
-        "category":"Voedselverwerking",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
         "question":"Wat is voedselverwerking?",
         "answer":"Die manier waarop rou voedselprodukte verander word in finale voedsel produkte."       
     },
@@ -484,8 +484,8 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
-        "category":"Voedselvererking",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
         "question":"Wat is gefortifiseerde voedsel?",
         "answer":"Voedsel waarby vitamiene en mineral gevoeg word."       
     },
@@ -494,8 +494,8 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
-        "category":"Verwerking metodes",
+        "chapter":"Dieet",
+        "category":"Flitskaarte",
         "question":"Wat is gefortifiseerde voedsel?",
         "answer":"Voedsel waarby vitamiene en mineral gevoeg word."       
     }

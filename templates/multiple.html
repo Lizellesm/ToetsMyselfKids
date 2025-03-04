@@ -207,10 +207,12 @@
                         
                     }
 
-                    // Disable all options after one selection
+                    // ✅ Highlight the correct answer(s) in green
                     document.querySelectorAll('.option').forEach(opt => {
-                        opt.classList.add('disabled'); // Disable clicking
-                    });
+                      if (correctAnswers.includes(opt.textContent)) {
+                        opt.classList.add('correct');
+                    }
+                });
 
                     // Show and enable the button after selection
                     submitButton.classList.remove('d-none');

@@ -334,7 +334,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Invul vrae",
         "question":"Wat noem ons goed wat my kos gevoeg word om die smaak, kleur, geur of tekstuur te verbeter?",
         "answer":["by-middels"]
@@ -344,7 +344,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Invul vrae",
         "question":"Voedsel iln pakkies, blikkies en bottesl noem ons  _____ voedsel.",
         "answer":["verwerkte"]
@@ -354,7 +354,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Invul vrae",
         "question":"Die by-middel om voedsel se smaak of reuk te verbeter.",
         "answer":["geurmiddels", "geurmiddel"]
@@ -364,7 +364,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Invul vrae",
         "question":"Die by-middel om voedsel langer te laat hou.",
         "answer":["preserveermiddel", "preserveermiddels"]
@@ -374,7 +374,7 @@
         "grade":"Graad 6",
         "subject":"Natuurwetenskap",
         "quarter":"Kwartaal 1",
-        "chapter":"Voedselgroepe",
+        "chapter":"Voedsel",
         "category":"Invul vrae",
         "question":"Die by-middel om voedsel se voorkoms te verbeter.",
         "answer":["kleursel", "kleurmiddel", "kleurmiddels"]

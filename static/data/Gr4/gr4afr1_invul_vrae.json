@@ -5,9 +5,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: ma?",
-        "answer":"moeder"       
+        "answer":["moeder"]
     },
     {
         "id":2,
@@ -15,9 +15,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
-        "question":"Wat is die sinoniem van: pa?",
-        "answer":"vader"       
+        "category":"Invul vrae",
+        "question":"WWat is die sinoniem van: pa?",
+        "answer":["vader"]
     },
     {
         "id":3,
@@ -25,9 +25,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: verhale?",
-        "answer":"storie"       
+        "answer":["stories", "storie"]
     },
     {
         "id":4,
@@ -35,9 +35,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: smaaklik?",
-        "answer":"lekker / heerlik"       
+        "answer":["lekker", "heerlik"]
     },
     {
         "id":5,
@@ -45,9 +45,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: byna?",
-        "answer":"amper"       
+        "answer":["amper"]
     },
     {
         "id":6,
@@ -55,9 +55,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: gesegde?",
-        "answer":"werkwoord"       
+        "answer":["werkwoord"]
     },
     {
         "id":7,
@@ -65,9 +65,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: taak?",
-        "answer":"werk / opdrag"       
+        "answer":["werk", "opdrag"]
     },
     {
         "id":8,
@@ -75,9 +75,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: benoud?",
-        "answer":"bang / bekommerd"       
+        "answer":["bang", "bekommerd"]
     },
     {
         "id":9,
@@ -85,9 +85,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: pla?",
-        "answer":"terg / steur"       
+        "answer":["terg", "steur"]
     },
     {
         "id":10,
@@ -95,9 +95,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: eensaam?",
-        "answer":"alleen"       
+        "answer":["alleen"]
     },
     {
         "id":11,
@@ -105,19 +105,20 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: gou?",
-        "answer":"vinnig / spoedig / haastig"       
+        "answer":["vinnig", "spoedig", "haastig"]
     },
+    
     {
         "id":12,
         "grade":"Graad 4",
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: nors?",
-        "answer":"kwaad / knorrig"       
+        "answer":["kwaad", "kwaai", "knorrig"]
     },
     {
         "id":13,
@@ -125,9 +126,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: baie?",
-        "answer":"heelwat / vele"       
+        "answer":["heelwat", "vele"]
     },
     {
         "id":14,
@@ -135,9 +136,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: karre?",
-        "answer":"motors / voertuie"       
+        "answer":["motors", "voertuie"]
     },
     {
         "id":15,
@@ -145,9 +146,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: praat?",
-        "answer":"gesels"       
+        "answer":["gesels"]
     },
     {
         "id":16,
@@ -155,9 +156,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: maat?",
-        "answer":"vriend"       
+        "answer":["vriend"]
     },
     {
         "id":17,
@@ -165,9 +166,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: hartseer?",
-        "answer":"ongelukkig"       
+        "answer":["ongelukkig"]
     },
     {
         "id":18,
@@ -175,9 +176,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: beduie?",
-        "answer":"wys"       
+        "answer":["wys"]
     },
     {
         "id":19,
@@ -185,9 +186,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: feit?",
-        "answer":"waarheid"        
+        "answer":["waarheid"]
     },
     {
         "id":20,
@@ -195,9 +196,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die sinoniem van: stry?",
-        "answer":"baklei"        
+        "answer":["baklei"]
     },
     {
         "id":21,
@@ -205,9 +206,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: vet?",
-        "answer":"maer"        
+        "answer":["maer"]        
     },
     {
         "id":22,
@@ -215,9 +216,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: maklik?",
-        "answer":"moeilik"        
+        "answer":["moeilik"]        
     },
     {
         "id":23,
@@ -225,9 +226,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: skoon?",
-        "answer":"vuil"        
+        "answer":["vuil"]        
     },
     {
         "id":24,
@@ -235,9 +236,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: skerp?",
-        "answer":"stomp"        
+        "answer":["stomp"]        
     },
     {
         "id":25,
@@ -245,9 +246,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: swaar?",
-        "answer":"lig"        
+        "answer":["lig"]        
     },
     {
         "id":26,
@@ -255,9 +256,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: vriendelik?",
-        "answer":"onvriendelik"        
+        "answer":["onvriendelik"]        
     },
     {
         "id":27,
@@ -265,9 +266,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: leeg?",
-        "answer":"vol"        
+        "answer":["vol"]        
     },
     {
         "id":28,
@@ -275,9 +276,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: reg?",
-        "answer":"verkeerd"        
+        "answer":["verkeerd"]        
     },
     {
         "id":29,
@@ -285,9 +286,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: onder?",
-        "answer":"bo"        
+        "answer":["bo"]        
     },
     {
         "id":30,
@@ -295,9 +296,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: wyd?",
-        "answer":"nou"        
+        "answer":["nou"]        
     },
     {
         "id":31,
@@ -305,9 +306,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: lui?",
-        "answer":"fluks"        
+        "answer":["fluks"]        
     },
     {
         "id":32,
@@ -315,9 +316,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: vinnig?",
-        "answer":"stadig"        
+        "answer":["stadig"]        
     },
     {
         "id":33,
@@ -325,9 +326,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: diep?",
-        "answer":"vlak"        
+        "answer":["vlak"]        
     },
     {
         "id":34,
@@ -335,9 +336,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: baie?",
-        "answer":"min"        
+        "answer":["min"]        
     },
     {
         "id":35,
@@ -345,9 +346,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: lank?",
-        "answer":"kort"        
+        "answer":["kort"]        
     },
     {
         "id":36,
@@ -355,9 +356,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: binne?",
-        "answer":"buite"        
+        "answer":["buite"]        
     },
     {
         "id":37,
@@ -365,9 +366,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: ryk?",
-        "answer":"arm"        
+        "answer":["arm"]        
     },
     {
         "id":38,
@@ -375,9 +376,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: droog?",
-        "answer":"nat"        
+        "answer":["nat"]        
     },
     {
         "id":39,
@@ -385,9 +386,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: smaaklik?",
-        "answer":"onsmaaklik"        
+        "answer":["onsmaaklik"]        
     },
     {
         "id":40,
@@ -395,9 +396,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: lelik?",
-        "answer":"mooi"        
+        "answer":["mooi"]        
     },
     {
         "id":41,
@@ -405,9 +406,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: siek?",
-        "answer":"gesond"        
+        "answer":["gesond"]        
     },
     {
         "id":42,
@@ -415,9 +416,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: yskoud?",
-        "answer":"vuurwarm"        
+        "answer":["vuurwarm"]        
     },
     {
         "id":43,
@@ -425,9 +426,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: ver?",
-        "answer":"naby"        
+        "answer":["naby"]        
     },
     {
         "id":44,
@@ -435,9 +436,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Antonieme",
-        "category":"Flitskaarte",
+        "category":"Invul vrae",
         "question":"Wat is die antoniem van: jonk?",
-        "answer":"oud"        
+        "answer":["oud"]        
     },
     {
         "id":45,
@@ -445,9 +446,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: meneer?",
-        "answer":"juffrou"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: meneer?",
+        "answer":["juffrou"]        
     },
     {
         "id":46,
@@ -455,9 +456,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: bul?",
-        "answer":"koei"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: bul?",
+        "answer":["koei"]        
     },
     {
         "id":47,
@@ -465,9 +466,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: hings?",
-        "answer":"merrie"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: hings?",
+        "answer":["merrie"]        
     },
     {
         "id":48,
@@ -475,9 +476,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: koning?",
-        "answer":"koningin"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: koning?",
+        "answer":["koningin"]        
     },
     {
         "id":49,
@@ -485,9 +486,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: mannetjie?",
-        "answer":"wyfie"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: mannetjie?",
+        "answer":["wyfie"]        
     },
     {
         "id":50,
@@ -495,9 +496,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: reun?",
-        "answer":"teef"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: reun?",
+        "answer":["teef"]        
     },
     {
         "id":51,
@@ -505,9 +506,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: nefie?",
-        "answer":"niggie"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: nefie?",
+        "answer":["niggie"]        
     },
     {
         "id":52,
@@ -515,9 +516,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: oupa?",
-        "answer":"ouma"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: oupa?",
+        "answer":["ouma"]        
     },
     {
         "id":53,
@@ -525,9 +526,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: oom?",
-        "answer":"tannie"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: oom?",
+        "answer":["tannie"]        
     },
     {
         "id":54,
@@ -535,9 +536,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: prins?",
-        "answer":"prinses"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: prins?",
+        "answer":["prinses"]        
     },
     {
         "id":55,
@@ -545,9 +546,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: seun?",
-        "answer":"dogter"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: seun?",
+        "answer":["dogter"]        
     },
     {
         "id":56,
@@ -555,9 +556,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: ram?",
-        "answer":"ooi"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: ram?",
+        "answer":["ooi"]        
     },
     {
         "id":57,
@@ -565,9 +566,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: vader?",
-        "answer":"moeder"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: vader?",
+        "answer":["moeder"]        
     },
     {
         "id":58,
@@ -575,9 +576,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: vriend?",
-        "answer":"vriendin"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: vriend?",
+        "answer":["vriendin"]        
     },
     {
         "id":59,
@@ -585,9 +586,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: pappa?",
-        "answer":"mamma"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: pappa?",
+        "answer":["mamma"]        
     },
     {
         "id":60,
@@ -595,9 +596,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: haan?",
-        "answer":"hen"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: haan?",
+        "answer":["hen"]        
     },
     {
         "id":61,
@@ -605,9 +606,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: bakker?",
-        "answer":"bakster"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: bakker?",
+        "answer":["bakster"]        
     },
     {
         "id":62,
@@ -615,9 +616,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: sportman?",
-        "answer":"sportvrou"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: sportman?",
+        "answer":["sportvrou"]        
     },
     {
         "id":63,
@@ -625,9 +626,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: broer?",
-        "answer":"suster"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: broer?",
+        "answer":["suster"]        
     },
     {
         "id":64,
@@ -635,9 +636,9 @@
         "subject":"Afrikaans",
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
-        "category":"Flitskaarte",
-        "question":"Wat is die vroulike vorm van: bruidegom?",
-        "answer":"bruid"        
+        "category":"Invul vrae",
+        "question":"Wat is die vroulik van: bruidegom?",
+        "answer":["bruid"]        
     },
     {
         "id": 65,
@@ -645,9 +646,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die vroulike vorm van: juffrou?",
-        "answer": "meneer"
+        "answer": ["meneer"]
     },
     {
         "id": 66,
@@ -655,9 +656,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: koei?",
-        "answer": "bul"
+        "answer": ["bul"]
     },
     {
         "id": 67,
@@ -665,9 +666,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: merrie?",
-        "answer": "hings"
+        "answer": ["hings"]
     },
     {
         "id": 68,
@@ -675,9 +676,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: koningin?",
-        "answer": "koning"
+        "answer": ["koning"]
     },
     {
         "id": 69,
@@ -685,9 +686,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: wyfie?",
-        "answer": "mannetjie"
+        "answer": ["mannetjie"]
     },
     {
         "id": 70,
@@ -695,9 +696,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: teef?",
-        "answer": "reun"
+        "answer": ["reun"]
     },
     {
         "id": 71,
@@ -705,9 +706,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: niggie?",
-        "answer": "nefie"
+        "answer": ["nefie"]
     },
     {
         "id": 72,
@@ -715,9 +716,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: ouma?",
-        "answer": "oupa"
+        "answer": ["oupa"]
     },
     {
         "id": 73,
@@ -725,9 +726,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: tannie?",
-        "answer": "oom"
+        "answer": ["oom"]
     },
     {
         "id": 74,
@@ -735,9 +736,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: prinses?",
-        "answer": "prins"
+        "answer": ["prins"]
     },
     {
         "id": 75,
@@ -745,9 +746,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: dogter?",
-        "answer": "seun"
+        "answer": ["seun"]
     },
     {
         "id": 76,
@@ -755,9 +756,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: ooi?",
-        "answer": "ram"
+        "answer": ["ram"]
     },
     {
         "id": 77,
@@ -765,9 +766,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: moeder?",
-        "answer": "vader"
+        "answer":["vader"]
     },
     {
         "id": 77,
@@ -775,9 +776,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: vriendin?",
-        "answer": "vriend"
+        "answer": ["vriend"]
     },
     {
         "id": 78,
@@ -785,9 +786,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: mamma?",
-        "answer": "pappa"
+        "answer": ["pappa"]
     },
     {
         "id": 79,
@@ -795,9 +796,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: hen?",
-        "answer": "haan"
+        "answer": ["haan"]
     },
     {
         "id": 80,
@@ -805,9 +806,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: bakster?",
-        "answer": "bakker"
+        "answer": ["bakker"]
     },
     {
         "id": 81,
@@ -815,9 +816,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: sportvrou?",
-        "answer": "sportman"
+        "answer":["sportman"]
     },
     {
         "id": 82,
@@ -825,9 +826,9 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: sister?",
-        "answer": "broer"
+        "answer": ["broer"]
     },
     {
         "id": 83,
@@ -835,110 +836,8 @@
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
-        "category": "Flitskaarte",
+        "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: bruid?",
-        "answer": "bruidegom"
-    },
-        {
-        "id": 84,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "Moenie 'n kat sonder handskoene aanpak nie.",
-        "answer": "Wees versigtig vir iemand."
-    },
-    {
-        "id": 85,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "Die kat uit die boom kyk.",
-        "answer": "Kyk eers goed voor jy iets besluit."
-    },
-    {
-        "id": 86,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "'n Kat in die sak koop.",
-        "answer": "Iets koop wat min werd is."
-    },
-    {
-        "id": 87,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "As die kat weg is, is die muis baas.",
-        "answer": "As niemand kyk nie, maak ek nes ek wil."
-    },
-    {
-        "id": 88,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "'n Haastig hond verbrand sy mond.",
-        "answer": "'n Mens moet nie oorhaastig optree nie."
-    },
-    {
-        "id": 89,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "Katvoet loop.",
-        "answer": "Wees versigtig."
-    },
-    {
-        "id": 90,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "Jou uit die voete maak.",
-        "answer": "Vlug of weghardloop."
-    },
-    {
-        "id": 91,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "Oor die hond se stert.",
-        "answer": "Die ergste is al verby."
-    },
-    {
-        "id": 92,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "Iets lag-lag doen.",
-        "answer": "Die ergste is al verby."
-    },
-    {
-        "id": 93,
-        "grade": "Graad 4",
-        "subject": "Afrikaans",
-        "quarter": "Kwartaal 1",
-        "chapter": "Idiome",
-        "category": "Flitskaarte",
-        "question": "Uit die veld geslaan.",
-        "answer": "Baie verbaas."
+        "answer":["bruidegom"]
     }
-
-
 ]

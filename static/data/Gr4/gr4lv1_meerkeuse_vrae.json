@@ -6,9 +6,9 @@
         "quarter": "Kwartaal 1",
         "chapter": "Persoonlike sterkpunte",
         "category": "Meerkeusevrae",
-        "question": "Is almal spesiaal net sommige mense?",
-        "options": ["Nee, almal is spesiaal in hul eie manier.", "Ja, sommige mense is net spesiaal.", "Net mense met talent is spesiaal.", "Net mense met geld is spesiaal."],
-        "answer": ["Nee, almal is spesiaal in hul eie manier."]
+        "question": "Is almal spesiaal, of is net sommige mense spesiaal?",
+        "options": ["Almal is spesiaal in hul eie manier.", "Sommige mense is net spesiaal.", "Net mense met talent is spesiaal.", "Net mense met geld is spesiaal."],
+        "answer": ["Almal is spesiaal in hul eie manier."]
     },
     {
         "id": 2,
@@ -28,9 +28,9 @@
         "quarter": "Kwartaal 1",
         "chapter": "Persoonlike sterkpunte",
         "category": "Meerkeusevrae",
-        "question": "Wat beteken dit as ek sê iets is my sterkpunt?",
-        "options": ["Dit is iets waarin ek uitblink of goed is.", "Dit is iets wat ek nie regtig hou nie.", "Dit is iets wat ek nie probeer nie.", "Dit is iets wat ek net een keer probeer het."],
-        "answer": ["Dit is iets waarin ek uitblink of goed is."]
+        "question": "Dit is iets waarin ek uitblink of goed is.",
+        "options": ["Sterkpunt", "Oefen", "Spesiaal", "Konflik"],
+        "answer": ["Sterkpunt"]
     },
     {
         "id": 4,
@@ -39,9 +39,9 @@
         "quarter": "Kwartaal 1",
         "chapter": "Persoonlike sterkpunte",
         "category": "Meerkeusevrae",
-        "question": "Wat is oefen?",
-        "options": ["Om dieselfde ding 'n paar keer oor te doen om beter te word.", "Om iets vir die eerste keer te doen, en hoop om beter te word.", "Om ander mense te dwing om iets te doen.", "Om een keer iets te probeer en dink jy word beter."],
-        "answer": ["Om dieselfde ding 'n paar keer oor te doen om beter te word."]
+        "question": "Om dieselfde ding 'n paar keer oor te doen om beter te word.",
+        "options": ["Oefen", "Verbeter", "Respekteer", "Spesiaal"],
+        "answer": ["Oefen"]
     },
     {
         "id": 5,
@@ -50,9 +50,9 @@
         "quarter": "Kwartaal 1",
         "chapter": "Persoonlike sterkpunte",
         "category": "Meerkeusevrae",
-        "question": "Wat beteken verbeter?",
-        "options": ["Om beter te word in iets wat jy doen.", "Om ander mense se werk te beïndruk.", "Om iets heeltemal te verwaarloos.", "Om iets heeltemal te verander."],
-        "answer": ["Om beter te word in iets wat jy doen."]
+        "question": "Om beter te word in iets wat jy doen.",
+        "options": ["Verbeter", "Oefen", "Respekteer", "Sterkpunte"],
+        "answer": ["Verbeter"]
     },
     {
         "id": 6,
@@ -72,7 +72,7 @@
         "quarter": "Kwartaal 1",
         "chapter": "Respek vir jou liggaam",
         "category": "Meerkeusevrae",
-        "question": "Watter van die opsies beteken jy versorg jou liggaam?",
+        "question": "Watter van die opsies beskryf die beste manier om liggaam te versorg?",
         "options": ["Eet gesonde kos, oefen gereeld, drink water, slaap genoeg, bly skoon.", "Eet kos, oefen gereeld, drink water, slaap genoeg, bly skoon.", "Eet gesonde kos, oefen gereeld, drink water, slaap, bly skoon.", "Eet gesonde kos, oefen gereeld, drink vloeistowwe, slaap genoeg, bly skoon."],
         "answer": ["Eet gesonde kos, oefen gereeld, drink water, slaap genoeg, bly skoon."]
     },
@@ -84,8 +84,8 @@
         "chapter": "Respek vir jou liggaam",
         "category": "Meerkeusevrae",
         "question": "Waarom is dit belangrik om ons liggame te respekteer?",
-        "options": ["Jy kan dit gesond en goed versorg hou.", "Jy verbeter jou selfbeeld.", "Jy leer ander mense hoe om jou te respekteer.", "Jy sal beter voel oor jouself."],
-        "answer": ["Jy kan dit gesond en goed versorg hou."]
+        "options": ["Dit help jou om gesond te bly en goed te voel oor jouself.", "Jy verbeter jou selfbeeld.", "Jy leer ander mense hoe om jou te respekteer.", "Jy sal beter voel oor jouself."],
+        "answer": ["Dit help jou om gesond te bly en goed te voel oor jouself."]
     },
     {
         "id": 9,
@@ -94,9 +94,9 @@
         "quarter": "Kwartaal 1",
         "chapter": "Respek vir jou liggaam",
         "category": "Meerkeusevrae",
-        "question": "Noem drie maniere hoe jy jou liggaam of die van ander kan respekteer?",
-        "options": ["Eet gesonde kos, oefen gereeld, drink water, slaap genoeg, bly skoon.", "Slaan ander mense, misbruik hulle, en neem hul goed.", "Moet nie ander mense respekteer nie.", "Moet nie vir ander omgee nie."],
-        "answer": ["Kies maats wat jou respekteer, moenie ander mense slaan nie, en respekteer ander se privaatheid."]
+        "question": "Noem 'n manier hoe jy jou liggaam of die van ander kan respekteer?",
+        "options": ["Eet gesonde kos.", "Slaan ander mense, misbruik hulle, en neem hul goed.", "Moet nie ander mense respekteer nie.", "Moenie enige hulp aan ander gee nie."],
+        "answer": ["Eet gesonde kos."]
     },
     {
         "id": 10,
@@ -105,9 +105,9 @@
         "quarter": "Kwartaal 1",
         "chapter": "Respek vir jou liggaam",
         "category": "Meerkeusevrae",
-        "question": "Wat beteken dit om verslaaf te wees aan iets?",
-        "options": ["Om afhanklik van iets te wees of om dit te misbruik.", " Om dit net een keer te gebruik.", "Om nie die item te gebruik nie.", "Om nie dit te misbruik nie."],
-        "answer": ["Om afhanklik van iets te wees of om dit te misbruik."]
+        "question": "Om afhanklik van iets te wees of om dit te misbruik beteken jy is:",
+        "options": ["Verslaaf", "Verbeter", "Respekteer", "Oefen"],
+        "answer": ["Verslaaf"]
     },
     {
         "id": 11,
@@ -116,7 +116,7 @@
         "quarter": "Kwartaal 1",
         "chapter": "Respek vir jou liggaam",
         "category": "Meerkeusevrae",
-        "question": "Noem vier items waaraan ons verskaaf kan raak?",
+        "question": "Noem vier slegte items waaraan ons verslaaf kan raak?",
         "options": ["Rook, alcohol, dwelms, snuifgom.", " Eet gesonde kos, oefen, slaap, lees.", "Lees, speel, werk, slaap.", "Slaap, werk, sport, vriende."],
         "answer": ["Rook, alcohol, dwelms, snuifgom."]
     },
@@ -127,9 +127,9 @@
         "quarter": "Kwartaal 1",
         "chapter": "Respek vir jou liggaam",
         "category": "Meerkeusevrae",
-        "question": "Noem redes waarom jy jou en ander se liggame moet respekteer?",
-        "options": ["Dit help om die liggaam gesond en goed te versorg, en respekteer ander se privaatheid.", "Om ander mense se liggame te ignoreer.", " Dit help jou om te voel dat jy minder is.", "Dit help om ander te beledig."],
-        "answer": ["Dit help om die liggaam gesond en goed te versorg, en respekteer ander se privaatheid."]
+        "question": "Hoe kan jy ander mense se liggame respekteer?",
+        "options": ["Respekteer ander se privaatheid.", "Om ander mense se liggame te ignoreer.", " Dit help jou om te voel dat jy minder is.", "Dit help om ander te beledig."],
+        "answer": ["Respekteer ander se privaatheid."]
     },
     {
         "id": 13,
@@ -138,9 +138,9 @@
         "quarter": "Kwartaal 1",
         "chapter": "Konflik",
         "category": "Meerkeusevrae",
-        "question": "Wat is konflik?",
-        "options": ["Wanneer mense mekaar kwaad maak of verskil.", "Wanneer mense dieselfde ding wil doen.", "Wanneer mense mekaar verstaan.", "Wanneer mense mekaar help."],
-        "answer": ["Wanneer mense mekaar kwaad maak of verskil."]
+        "question": "Wanneer mense mekaar kwaad maak of verskil.",
+        "options": ["Konflik", "Respekteer", "Oefen", "Verbeter"],
+        "answer": ["Konflik"]
     },
     {
         "id": 14,
@@ -150,8 +150,8 @@
         "chapter": "Konflik",
         "category": "Meerkeusevrae",
         "question": "Wat lei tot konflik?",
-        "options": ["Wanneer mense dieselfde ding op verskillende maniere wil doen of verskillend oor iets dink.", "Wanneer mense altyd saamstem.", "Wanneer mense mekaar verstaan.", "Wanneer mense nie mekaar se menings respekteer nie."],
-        "answer": ["Wanneer mense mekaar kwaad maak of verskil."]
+        "options": ["Wanneer mense dieselfde ding op verskillende maniere wil doen.", "Wanneer mense altyd saamstem.", "Wanneer mense mekaar verstaan.", "Wanneer mense nie mekaar se menings respekteer nie."],
+        "answer": ["Wanneer mense dieselfde ding op verskillende maniere wil doen."]
     },
     {
         "id": 15,
@@ -160,19 +160,30 @@
         "quarter": "Kwartaal 1",
         "chapter": "Konflik",
         "category": "Meerkeusevrae",
-        "question": "Noem drie maniere om konflik te hanteer.",
-        "options": ["Praat oor dit, erken verskille, keer dit om erger te raak.", "Verhinder die ander persoon om iets te sê.", "Moet nie na die ander persoon luister nie.", "Ignoreer die konflik, aanvalle, moedig aan om te veg."],
-        "answer": ["Praat oor dit, erken verskille, keer dit om erger te raak."]
+        "question": "Noem 'n maniere om konflik te hanteer.",
+        "options": ["Praat oor dit.", "Verhinder die ander persoon om iets te sê.", "Moet nie na die ander persoon luister nie.", "Ignoreer die konflik, aanvalle, moedig aan om te veg."],
+        "answer": ["Praat oor dit."]
     },
     {
         "id": 16,
         "grade": "Graad 4",
         "subject": "Lewensvaardigheid",
         "quarter": "Kwartaal 1",
-        "chapter": "Konflik",
+        "chapter": "Respek vir jou liggaam",
         "category": "Meerkeusevrae",
-        "question": "Wat is 'n collage?",
-        "options": ["'n Versameling prente of woorde oor een onderwerp wat op papier geplak is.", "n Tekenprent.", "'n Film wat jy kyk.", "'n Versameling van net een tipe prente."],
-        "answer": ["'n Versameling prente of woorde oor een onderwerp wat op papier geplak is."]
+        "question": "Een woord vir: 'n Versameling prente of woorde oor een onderwerp wat op papier geplak is.",
+        "options": ["Collage", "Rangskik", "Respekteer", "Verbeter"],
+        "answer": ["Collage"]
+    },
+    {
+        "id": 17,
+        "grade": "Graad 4",
+        "subject": "Lewensvaardigheid",
+        "quarter": "Kwartaal 1",
+        "chapter": "Respek vir jou liggaam",
+        "category": "Meerkeusevrae",
+        "question": "Een woord vir: Om goed in 'n netjiese, mooi of vereiste volgorde te plaas.",
+        "options": ["Rangskik", "Collage.", "Respekteer", "Spesiaal"],
+        "answer": ["Rangskik"]
     }
 ]

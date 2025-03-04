@@ -27,7 +27,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Wat is die kleinste lewende ding?",
-        "answer":"'n Kiem"       
+        "answer":"'n Kiem  🦠"       
     },
     {
         "id":4,
@@ -37,7 +37,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Hoe kan ons 'n kiem sien?",
-        "answer":"Met 'n mikroskoop."       
+        "answer":"Met 'n mikroskoop.  🔬"       
     },
     {
         "id":5,
@@ -57,7 +57,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Noem die sewe lewensprosesse wat alle lewende dinge uitvoer.",
-        "answer":"1. Voeding 2. Reproduseer 3. Uitskeiding 4. Beweging 5. Sintuie 6. Groei 7. Asemhaling"        
+        "answer":"1.🥕 Voeding 2.🦢 Reproduseer 3.💦 Uitskeiding 4.⛵ Beweging 5.🐍 Sintuie 6. 🌱 Groei 7. 🛡️ Asemhaling"        
     },
     {
         "id":7,
@@ -67,7 +67,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Noem drie redes waarom lewende dinge voedsel nodig het.",
-        "answer":"1. Beweeg  2. Groei  3. Voortplant",
+        "answer":"1. Beweeg  ⛵ 2. Groei 🌱  3.   Voortplant 🦢",
         "created_by":1
     },
     {
@@ -78,7 +78,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Het plante voedsel nodig om te lewe?",
-        "answer":"Plante het voedsel nodig om te lewe, alle lewende dinge het voedsel nodig om te lewe.",
+        "answer":"Plante het voedsel nodig om te lewe, alle lewende dinge het voedsel nodig om te lewe.🥕  ",
         "created_by":1
     },
     {
@@ -89,7 +89,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Wat is reproduksie?",
-        "answer":"Die proses van plante en diere wat hul eie kleintjies of kinders produseer.",
+        "answer":"Die proses van plante en diere wat hul eie kleintjies of kinders produseer.  🦢",
         "created_by":1
     },
     {
@@ -100,7 +100,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Hoekom is reproduksie belangrik?",
-        "answer":"Sodat plante en diere nie uitsterf nie.",
+        "answer":"Sodat plante en diere nie uitsterf nie.  🦢",
         "created_by":1
     },
     {
@@ -111,7 +111,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Wat is uitskeiding?",
-        "answer":"Die proses om van afval ontslae te raak.",
+        "answer":"Die proses om van afval ontslae te raak. 💦",
         "created_by":1
     },
     {
@@ -122,7 +122,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Noem drie maniere van uitskeiding?",
-        "answer":"1.  Sweet 2. Urinering 3. Uitaseming van koolstofdioksied",
+        "answer":"1.  Sweet 2. Urinering 3. Uitaseming van koolstofdioksied  💦",
         "created_by":1
     },
     {
@@ -133,7 +133,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Hoe beweeg plante? ",
-        "answer":"Plante kan nie ban plek tot plek beweeg nie, maar hulle kan sekere dele beweeg. ",
+        "answer":"Plante kan nie ban plek tot plek beweeg nie, maar hulle kan sekere dele beweeg. ⛵",
         "created_by":1
     },
     {
@@ -144,7 +144,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Wat is die sintuie lewensproses?",
-        "answer":"Alle lewende dinge kan waarneem of voel wat om hulle gebeur.",
+        "answer":"Alle lewende dinge kan waarneem of voel wat om hulle gebeur. 🐍",
         "created_by":1
     },
     {
@@ -154,7 +154,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
-        "question":"Noem die vier sintuie wat diere gebruik om waar te neem in die natuur.",
+        "question":"Noem die vier sintuie wat diere gebruik om waar te neem in die natuur.  🐍",
         "answer":"1. Oë 2. Ore 3. Neuse 4. Aanraking ",
         "created_by":1
     },
@@ -166,7 +166,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Hoe kan plante waarneem in die natuur?",
-        "answer":"Plante kan sonlig waarneem.",
+        "answer":"Plante kan sonlig waarneem. 🐍",
         "created_by":1
     },
     {
@@ -177,7 +177,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Wat beteken die lewensproses groei?",
-        "answer":"Alle dinge groei todat hulle volgroeid is.",
+        "answer":"Alle dinge groei todat hulle volgroeid is. 🌱",
         "created_by":1
     },
     {
@@ -188,7 +188,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Wat beteken die lewensproses asemhaling?",
-        "answer":"Plante en diere haal asem om suurstof te kry.",
+        "answer":"Plante en diere haal asem om suurstof te kry.🛡️  ",
         "created_by":1
     },
     {
@@ -199,7 +199,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Hoe haal 'n olifant asem?",
-        "answer":"Meeste diere haal asem met hul longe",
+        "answer":"Meeste diere haal asem met hul longe.  🛡️",
         "created_by":1
     },
     {
@@ -210,7 +210,7 @@
         "chapter":"Lewende dinge",
         "category":"Flitskaarte",
         "question":"Hoe haal plante asem?",
-        "answer":"Plante haal asem deur klein gaatiies in die blare.",
+        "answer":"Plante haal asem deur klein gaatiies in die blare.  🛡️",
         "created_by":1
     },
     {

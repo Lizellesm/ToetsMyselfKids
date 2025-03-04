@@ -17,7 +17,7 @@
         "chapter":"Persoonlike sterkpunte",
         "category":"Flitskaarte",
         "question":"Wat beteken dit om spesiaal te wees?",
-        "answer":"Dit beteken om anders te wees, of om beter in iets as ander te wees."       
+        "answer":"Dit beteken om uniek te wees en eienskappe te hê wat jou spesiaal maak."       
     },
     {
         "id":3,
@@ -37,7 +37,7 @@
         "chapter":"Persoonlike sterkpunte",
         "category":"Flitskaarte",
         "question":"Wat is oefen?",
-        "answer":"Om dieselfde ding 'n paar keer oor te doen om beter te word."       
+        "answer":"Om dieselfde ding herhaaldelik te doen om daarin beter te word."       
     },
     {
         "id":5,
@@ -67,7 +67,7 @@
         "chapter":"Respek vir jou liggaam",
         "category":"Flitskaarte",
         "question":"Noem vyf maniere om jou liggaam te versorg?",
-        "answer":"1. Eet gesonde kos om sterk te wees. \n2. Oefen gereeld om fiks te bly. \n 3. Drink skoon water elke dag. \n4. Kry genoeg slaap elke aand. \n5. Was jou liggaam gereeld om dit skoon te hou."       
+        "answer":"1. Eet gesonde kos om sterk te wees. \n2. Oefen gereeld om fiks te bly. \n3. Drink skoon water elke dag. \n4. Kry genoeg slaap elke aand. \n5. Was jou liggaam gereeld om dit skoon te hou."       
     },
     {
         "id":8,
@@ -87,7 +87,7 @@
         "chapter":"Respek vir jou liggaam",
         "category":"Flitskaarte",
         "question":"Noem drie maniere hoe jy jou liggaam of die van ander kan respekteer?",
-        "answer":"1. Moenie maats wees met mense wat jou nie respekteer nie. \n 2. Moenie iemand anders slaan of seermaak nie. \n 3. Moenie iets neem of gedwing word om iets te neem wat sleg is vir jou nie."       
+        "answer":"1. Moenie maats wees met mense wat jou nie respekteer nie. \n2. Moenie iemand anders slaan of seermaak nie. \n3. Moenie iets neem of gedwing word om iets te neem wat sleg is vir jou nie."       
     },
     {
         "id":10,
@@ -106,8 +106,8 @@
         "quarter":"Kwartaal 1",
         "chapter":"Respek vir jou liggaam",
         "category":"Flitskaarte",
-        "question":"Noem vier items waaraan ons verskaaf kan raak?",
-        "answer":"1. Rook \n2. Snuif van gom. \n3. Drink van alkohol. \n4. Gebruik van dwelmmiddels."       
+        "question":"Noem vier items waaraan ons verslaaf kan raak?",
+        "answer":"1. Rook \n2. Snuifgom \n3. Alkohol \n4. Dwelms"       
     },
     {
         "id":12,
@@ -117,7 +117,7 @@
         "chapter":"Respek vir jou liggaam",
         "category":"Flitskaarte",
         "question":"Noem vyf redes waarom jy jou en ander se liggame moet respekteer?",
-        "answer":"1. Jou liggaam moet versorg en gerespekteer word. 2. Jou liggaam groei nog en benodig goeie kos, water, oefeninge, slaap en moet skoon gehou word. 3. Beskerm jou liggaam teen skade en giftige stowwe. 4. Ander mense se liggame is privaat; respekteer dit.  5. Jy moet veilig, geliefd en gerespekteer voel sodat jou gevoelens kan ontwikkel."       
+        "answer":"1. Jou liggaam moet versorg en gerespekteer word. 2. Jou liggaam groei nog en benodig goeie kos, water, oefening, slaap en moet skoon gehou word. 3. Beskerm jou liggaam teen skade en giftige stowwe. 4. Ander mense se liggame is privaat; respekteer dit.  5. Jy moet veilig, geliefd en gerespekteer voel sodat jou gevoelens kan ontwikkel."       
     },
     {
         "id":13,
@@ -137,7 +137,7 @@
         "chapter":"Konflik",
         "category":"Flitskaarte",
         "question":"Wat lei tot konflik?",
-        "answer":"Wanneer mense dieself ding op verskillende maniere wil doen of verskillend oor iets dink."       
+        "answer":"Wanneer mense dieselfde ding op verskillende maniere wil doen of verskillend oor iets dink."       
     },
     {
         "id":15,

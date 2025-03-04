@@ -1,0 +1,173 @@
+[
+    {
+        "id":1,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Invul vrae",
+        "question":"_____ is in een of ander opsig spesiaal en het verskillende sterkpunte.",
+        "answer":["Almal"]       
+    },
+    {
+        "id":2,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Invul vrae",
+        "question":"Om spesiaal te wees beteken om ____  of beter as ander te wees.",
+        "answer":["anders", "uniek"]       
+    },
+    {
+        "id":3,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Invul vrae",
+        "question":"Sterkpunt beteken dat jy iets goed doen of waarin jy _____.",
+        "answer":["uitblink"]       
+    },
+    {
+        "id":4,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Invul vrae",
+        "question":"Een woord wat beskryf: Om dieselfde ding 'n paar keer oor te doen om beter te word.",
+        "answer":["oefen"]       
+    },
+    {
+        "id":5,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Invul vrae",
+        "question":"Een woord wat beskryf: Om beter te word in iets wat jy doen.",
+        "answer":["verbeter"]       
+    },
+    {
+        "id":6,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Persoonlike sterkpunte",
+        "category":"Invul vrae",
+        "question":"Hoe kan jy jouself verbeter? Gebruik jou _____ om sterker in skoolwerk of sport te raak.",
+        "answer":["sterkpunte"]       
+    },
+    {
+        "id":7,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Invul vrae",
+        "question":"Jy kan ____ kos eet om gesond te bly.",
+        "answer":["gesonde"]       
+    },
+    {
+        "id":8,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Invul vrae",
+        "question":"Deur jou liggaam te respekteer, kan jy dit gesond en goed versorg hou.",
+        "answer":["respekteer"]       
+    },
+    {
+        "id":9,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Invul vrae",
+        "question":"Moet nooit iemand slaan of _____ nie.",
+        "answer":["seermaak"]       
+    },
+    {
+        "id":10,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Invul vrae",
+        "question":"Een woord wat beskryf: Om afhanklik van iets te wees of om dit te misbruik.",
+        "answer":["verslaaf"]       
+    },
+    {
+        "id":11,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Invul vrae",
+        "question":"Mense kan verslaaf raak aan: _____, gom snuif, alkohol drink en dwelmmiddels gebruik.",
+        "answer":["rook"]       
+    },
+    {
+        "id":12,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Invul vrae",
+        "question":"Jou liggaam moet _____ en gerespekteer word.",
+        "answer":["versorg"]       
+    },
+    {
+        "id":13,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Konflik",
+        "category":"Invul vrae",
+        "question":"Een woord vir: Wanneer iemand ons kwaad of hartseer maak en ons iets terug wil doen.",
+        "answer":["konflik"]       
+    },
+    {
+        "id":14,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Konflik",
+        "category":"Invul vrae",
+        "question":"Konflik ontstaan wanneer mense dieselfde ding op ____ maniere wil doen of verskillend oor iets dink.",
+        "answer":["verskillende"]       
+    },
+    {
+        "id":15,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Konflik",
+        "category":"Invul vrae",
+        "question":"Mens kan konflik hanteer deur te ____ oor die probleem.",
+        "answer":["praat"]       
+    },
+    {
+        "id":16,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Invul vrae",
+        "question":"Een woord vir: 'n Versameling prente of woorde oor een onderwerp wat op 'n papier of karton geplak is.",
+        "answer":["collage"]       
+    },
+    {
+        "id":17,
+        "grade":"Graad 4",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Respek vir jou liggaam",
+        "category":"Invul vrae",
+        "question":"Een woord vir: Om goed in 'n netjiese, mooi of vereiste volgorde te plaas.",
+        "answer":["rangskik"]       
+    }
+    
+]

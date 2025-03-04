@@ -58,6 +58,11 @@
             color: #aaa; /* Lighter color for placeholder text */
             opacity: 1;  /* Ensure full opacity */
         }
+        #score-display, #progress-display {
+            color: black !important;
+            font-weight: normal;
+        }
+
 
     </style>
 
@@ -68,34 +73,34 @@
         <div class="col-md-8">
             <div class="card text-center">
                 <h1 class="card-title text-primary">Invul Vrae</h1>
-                <h3 id="score-display">Punte: 0</h3>
-                <h5 id="progress-display">Vraag: 1/1</h5>
+                
+                <!-- ✅ Score and Progress in One Line -->
+                <div class="d-flex justify-content-between px-3">
+                    <h3 id="score-display" >Punte: 0</h3>
+                    <h5 id="progress-display" >Vraag: 1/1</h5>
+                </div>
+            
                 <div id="question-container" class="my-4">
                     <h4 id="question-text" class="fw-bold"></h4>
                 </div>
-
+            
                 <!-- Large Input Box for Answer -->
                 <div class="mb-3">
                     <input type="text" id="user-answer" class="form-control" placeholder="Tik jou antwoord hier">
                 </div>
-
-                <!-- Button to Submit Answer -->
+            
+                <!-- Buttons -->
                 <button id="submit-button" class="btn btn-primary btn-lg">Gaan voort</button>
-
-                <!-- Button to Continue to the Next Question -->
                 <button id="continue-button" class="btn btn-secondary d-none">Volgende</button>
-
+            
                 <!-- Feedback Message -->
                 <div id="feedback-container" class="mt-3 d-none fade-in">
                     <p id="correct-answer" class="fw-bold"></p>
                 </div>
-
-                <!-- Spelling Message -->
-                <div class="alert alert-info mt-3" role="alert">
-                    Let asseblief op dat spelling van antwoorde korrek moet wees!
-                </div>
+            
+                
             </div>
-        </div>
+            
     </div>
 </div>
 
@@ -163,38 +168,17 @@
             }
         }
     
-       // Function to update the question
-        function updateQuestion() {
-            if (currentQuestionIndex >= questions.length) {
-                displayResults();
-                return;
-            }
-
-            const question = questions[currentQuestionIndex];
-            console.log("Loading question:", question); // Debugging to check if questions exist
-
-            // Update the question text and reset input field
-            questionText.textContent = question.question || "Geen vraag beskikbaar nie."; // Prevents blank question issue
-            userAnswerInput.value = '';
-
-            // Hide feedback and reset buttons
-            feedbackContainer.classList.add('d-none');
-            submitButton.classList.remove('d-none');  // Ensure the submit button is shown
-            continueButton.classList.add('d-none');  // Hide "Volgende" button until after answering
-
-            // Update the progress display
-            progressDisplay.textContent = `Vraag: ${currentQuestionIndex + 1}/${questions.length}`;
-        }
-
-
-    
+           
         // Function to check the user's answer
         function checkAnswer() {
             const userAnswer = userAnswerInput.value.trim().toLowerCase();
             const correctAnswers = questions[currentQuestionIndex].answer.map(ans => ans.toLowerCase());
 
-            console.log("Correct Answers:", correctAnswers);  // Debugging line
-            console.log("User Answer:", userAnswer);  // Debugging line
+            console.log("Correct Answers:", correctAnswers);
+            console.log("User Answer:", userAnswer);
+
+            // Remove existing color classes
+            submitButton.classList.remove('btn-primary', 'btn-success', 'btn-danger');
 
             if (correctAnswers.includes(userAnswer)) {
                 score++;
@@ -203,22 +187,63 @@
                 correctAnswerText.textContent = "Reg! Dit is die korrekte antwoord!";
                 correctAnswerText.classList.add('text-success');
                 correctAnswerText.classList.remove('text-danger');
-                submitButton.classList.add('d-none');  // Hide the submit button after answering
-                continueButton.classList.remove('d-none');  // Show "Volgende" button after answer
+
+                submitButton.classList.add('btn-success'); // ✅ Turn green if correct
             } else {
                 feedbackContainer.classList.remove('d-none');
                 correctAnswerText.textContent = `Verkeerd. Regte antwoord: ${correctAnswers.join(' of ')}`;
                 correctAnswerText.classList.remove('text-success');
                 correctAnswerText.classList.add('text-danger');
-                submitButton.classList.add('d-none');  // Hide the submit button after answering
-                continueButton.classList.remove('d-none');  // Show "Volgende" button after answer
+
+                submitButton.classList.add('btn-danger'); // ✅ Turn red if incorrect
             }
+
+            // Button remains clickable (user must press again to continue)
         }
+
+        // ✅ Reset Button Color on New Question
+        function updateQuestion() {
+            if (currentQuestionIndex >= questions.length) {
+                displayResults();
+                return;
+            }
+
+            const question = questions[currentQuestionIndex];
+            questionText.textContent = question.question || "Geen vraag beskikbaar nie.";
+            userAnswerInput.value = '';
+
+            // Hide feedback and reset button to blue
+            feedbackContainer.classList.add('d-none');
+            submitButton.classList.remove('btn-success', 'btn-danger'); // ✅ Remove previous color
+            submitButton.classList.add('btn-primary'); // ✅ Reset to blue
+            submitButton.disabled = false;
+
+            progressDisplay.textContent = `Vraag: ${currentQuestionIndex + 1}/${questions.length}`;
+        }
+
+        // ✅ Event Listener: When the button is clicked
+        submitButton.addEventListener('click', () => {
+            if (submitButton.classList.contains('btn-primary')) {
+                checkAnswer(); // ✅ First click checks answer
+            } else {
+                currentQuestionIndex++;
+                updateQuestion(); // ✅ Second click moves to next question
+            }
+        });
+        // ✅ Allow Enter key to ONLY submit answers
+        userAnswerInput.addEventListener('keydown', function(event) {
+            if (event.key === "Enter" && submitButton.classList.contains('btn-primary')) {
+                event.preventDefault(); // Prevents accidental form submissions
+                submitButton.click(); // Simulates button click for answer submission
+            }
+        });
+
+
+        
+
 
 
     
-        // Ensure the submitButton is correctly connected
-        submitButton.addEventListener('click', checkAnswer);
 
         // Function to display the final results
         function displayResults() {
