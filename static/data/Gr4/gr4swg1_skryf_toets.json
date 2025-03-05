@@ -1,0 +1,189 @@
+[
+    {
+        "id": 1,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Inligting",
+        "text": "Noem vier maniere hoe ons inligting oor 'n plaaslike gebied kan kry en gee 'n voorbeeld van elkeen. (4)",
+        "blanks": 4,
+        "image": null
+    },
+    {
+        "id": 2,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Inligting",
+        "text": " Hoe kry ons inligting uit prente? Verduidelik jou antwoord. (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 3,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Inligting",
+        "text": "Hoe kry ons inligting uit geskrewe bronne? Noem een voorbeeld.",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 4,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Inligting",
+        "text": "Hoe kry ons inligting uit stories of onderhoude? (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 5,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Inligting",
+        "text": "Hoe kry ons inligting uit monumente of beelde? (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 6,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Inligting",
+        "text": "Wat beteken chronologiese volgorde? (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 7,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Inligting",
+        "text": "Wat is argiewe? (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 8,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "Waar het Bloemfontein se naam vandaan gekry? (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 9,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "Waar in die Vrystaat is Bloemfontein geleë? (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 10,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "Noem die twee bekende heuwels in Bloemfontein se name. (2)",
+        "blanks": 2,
+        "image": null
+    },
+    {
+        "id": 11,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "Wat beteken Mangaung? (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 12,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "Wie was die Griekwahoofman? (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 13,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "Waar het die Griekwas die eerste settelaar toegelaat om te woon? (2)",
+        "blanks": 2,
+        "image": null
+    },
+    {
+        "id": 14,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "Wie was die Engelse soldate se leier en waar het hy eers gewoon? (2)",
+        "blanks": 2,
+        "image": null
+    },
+    {
+        "id": 15,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "Hoekom het Majoor Henry Warden van Bloemfontein gehou? (2)",
+        "blanks": 2,
+        "image": null
+    },
+    {
+        "id": 16,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "By wie het Majoor Henry Warden die plaas Bloemfontein gekoop? (1)",
+        "blanks": 1,
+        "image": null
+    },
+    {
+        "id": 17,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Bloemfontein",
+        "text": "Wat is die naam van die eerste fort en hoekom is dit gebou? (2)",
+        "blanks": 2,
+        "image": null
+    }
+]

@@ -83,7 +83,7 @@
         "quarter": "Kwartaal 1",
         "category": "Skryf",
         "chapter": "Plante & voedsel",
-        "text": "Watter drie dinge is nogig vir fotosintese? (3)",
+        "text": "Watter drie dinge is nodig vir fotosintese? (3)",
         "blanks": 3,
         "image": null
     },
@@ -127,7 +127,7 @@
         "quarter": "Kwartaal 1",
         "category": "Skryf",
         "chapter": "Plante & lug",
-        "text": "Wat suurstof? (1)",
+        "text": "Wat is suurstof? (1)",
         "blanks": 1,
         "image": null
     },
@@ -160,8 +160,8 @@
         "quarter": "Kwartaal 1",
         "category": "Skryf",
         "chapter": "Plante & lug",
-        "text": "Watter lewende dinge benodig koolstofdioksied en hoekom (1)",
-        "blanks": 1,
+        "text": "Watter lewende dinge benodig koolstofdioksied en hoekom? (2)",
+        "blanks": 2,
         "image": null
     },
     {
@@ -193,7 +193,7 @@
         "quarter": "Kwartaal 1",
         "category": "Skryf",
         "chapter": "Plante & lug",
-        "text": "Wat beteken die woord 'fotosintese? ('foto' en 'sintese') (2)",
+        "text": "Wat beteken die woord 'fotosintese'? ('foto' en 'sintese') (2)",
         "blanks": 2,
         "image": null
     },
@@ -216,7 +216,7 @@
         "category": "Skryf",
         "chapter": "Plante & voedsel",
         "text": "Wat is voedingstowwe? (1)",
-        "blanks": 2,
+        "blanks": 1,
         "image": null
     },
     {

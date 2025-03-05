@@ -20,20 +20,20 @@
 <body class="d-flex flex-column min-vh-100 bg-body-tertiary">
     
     <div class="container my-5">
-        <h2 class="pb-2 border-bottom">Graad 4</h2>
+        <h2 class="pb-2 border-bottom">Graad 4: Geskiedenis - Kwartaal 1</h2>
         <div class="row">
             <!-- Example for one subject -->
             <div class="col-md-4 mb-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="/static/images/grade4subjects/nw/lewend.jpg" class="card-img-top" alt="Natuurwetenskap">
+                    <img src="/static/images/grade4subjects/gr4sw1_inligting.jpg" class="card-img-top" alt="Natuurwetenskap">
                     <div class="card-body">
-                        <h5 class="card-title">Lewende dinge</h5>
+                        <h5 class="card-title">Inligting</h5>
                         <ul class="list-group list-group-flush">
                             <li class="list-group-item">
                                 <button 
                                     type="button" 
                                     class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Lewende', 'A')">
+                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Inligting', 'Flitskaarte', './static/data/Gr4/gr4swg1_flitskaarte.json')">
                                     Flitskaarte
                                 </button>
                             </li>
@@ -41,19 +41,23 @@
                                 <button 
                                     type="button" 
                                     class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Lewende', 'A')">
+                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Inligting', 'Meerkeusevrae', './static/data/Gr4/gr4swg1_meerkeuse_vrae.json')">
                                     Keuse Vrae
                                 </button>
                             </li>
                             <li class="list-group-item">
-                                <button type="button" onclick="redirectToPage('gr4nw3.html')" class="btn btn-link btn-link-custom p-0">Sketse</button>
+                                <button 
+                                    type="button" 
+                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Inligting', 'Invul vrae', './static/data/Gr4/gr4swg1_invul_vrae.json')" 
+                                    class="btn btn-link btn-link-custom p-0">
+                                    Invul vrae</button>
                             </li>
                             <li class="list-group-item">
                                 <button 
                                     type="button" 
-                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Lewende', 'A')" 
+                                    onclick="redirectToPage('skryfToets.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Inligting', 'Skryf', './static/data/Gr4/gr4swg1_skryf_toets.json')" 
                                     class="btn btn-link btn-link-custom p-0">
-                                    Invul vrae</button>
+                                    Skryf toets</button>
                             </li>
                         </ul>
                     </div>
@@ -63,7 +67,7 @@
             <!-- Example for one subject -->
             <div class="col-md-4 mb-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="/static/images/grade4subjects/nw/eggs.jpg" class="card-img-top" alt="Natuurwetenskap">
+                    <img src="/static/images/grade4subjects/gr4swg1_bfn.jpg" class="card-img-top" alt="Natuurwetenskap">
                     <div class="card-body">
                         <h5 class="card-title">Nog dinge</h5>
                         <ul class="list-group list-group-flush">
@@ -71,7 +75,7 @@
                                 <button 
                                     type="button" 
                                     class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Ander', 'A')">
+                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bloemfontein', 'Flitskaarte', './static/data/Gr4/gr4swg1_flitskaarte.json')">
                                     Flitskaarte
                                 </button>
                             </li>
@@ -79,229 +83,56 @@
                                 <button 
                                     type="button" 
                                     class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Ander', 'A')">
+                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bloemfontein', 'Meerkeusevrae', './static/data/Gr4/gr4swg1_meerkeuse_vrae.json')">
                                     Keuse Vrae
                                 </button>
                             </li>
                             <li class="list-group-item">
-                                <button type="button" onclick="redirectToPage('gr4nw3.html')" class="btn btn-link btn-link-custom p-0">Sketse</button>
+                                <button 
+                                    type="button" 
+                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bloemfontein', 'Invul vrae', './static/data/Gr4/gr4swg1_invul_vrae.json')" 
+                                    class="btn btn-link btn-link-custom p-0">
+                                    Invul vrae</button>
                             </li>
                             <li class="list-group-item">
                                 <button 
                                     type="button" 
-                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Ander', 'A')" 
+                                    onclick="redirectToPage('skryfToets.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bloemfontein', 'Skryf', './static/data/Gr4/gr4swg1_skryf_toets.json')" 
                                     class="btn btn-link btn-link-custom p-0">
-                                    Invul vrae</button>
+                                    Skryf toets</button>
                             </li>
                         </ul>
                     </div>
                 </div>
             </div>
 
-             <!-- Example for one subject -->
-             <div class="col-md-4 mb-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="/static/images/grade4subjects/nw/plants.jpg" class="card-img-top" alt="Natuurwetenskap">
-                    <div class="card-body">
-                        <h5 class="card-title">Plante</h5>
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Plante', 'A')">
-                                    Flitskaarte
-                                </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button 
-                                type="button" 
-                                class="btn btn-link btn-link-custom p-0" 
-                                onclick="redirectToPage('multiple.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Plante', 'A')">
-                                Keuse Vrae
-                            </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button type="button" onclick="redirectToPage('gr4nw3.html')" class="btn btn-link btn-link-custom p-0">Sketse</button>
-                            </li>
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Plante', 'A')" 
-                                    class="btn btn-link btn-link-custom p-0">
-                                    Invul vrae</button>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!-- Add similar blocks for other subjects with the same structure -->
-            <div class="col-md-4 mb-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="/static/images/grade4subjects/nw/frog.jpg" class="card-img-top" alt="Natuurwetenskap">
-                    <div class="card-body">
-                        <h5 class="card-title">Diere</h5>
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Diere', 'A')">
-                                    Flitskaarte
-                                </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button 
-                                type="button" 
-                                class="btn btn-link btn-link-custom p-0" 
-                                onclick="redirectToPage('multiple.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Diere', 'A')">
-                                Keuse Vrae
-                            </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button type="button" onclick="redirectToPage('gr4nw3.html')" class="btn btn-link btn-link-custom p-0">Sketse</button>
-                                <li class="list-group-item">
-                                    <button 
-                                        type="button" 
-                                        onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Diere', 'A')" 
-                                        class="btn btn-link btn-link-custom p-0">
-                                        Invul vrae</button>
-                                </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!-- Add similar blocks for other subjects with the same structure -->
-            <div class="col-md-4 mb-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="/static/images/grade4subjects/nw/lion.jpg" class="card-img-top" alt="Natuurwetenskap">
-                    <div class="card-body">
-                        <h5 class="card-title">Habitatte van diere</h5>
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Habitat', 'A')">
-                                    Flitskaarte
-                                </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Habitat', 'A')">
-                                    Keuse Vrae
-                                </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button type="button" onclick="redirectToPage('gr4nw3.html')" class="btn btn-link btn-link-custom p-0">Sketse</button>
-                            </li>
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Habitat', 'A')" 
-                                    class="btn btn-link btn-link-custom p-0">
-                                    Invul vrae</button>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!-- Add similar blocks for other subjects with the same structure -->
-            <div class="col-md-4 mb-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="/static/images/grade4subjects/nw/spinnerak.jpg" class="card-img-top" alt="Natuurwetenskap">
-                    <div class="card-body">
-                        <h5 class="card-title">Strukture vir diere skuilings</h5>
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Strukture', 'A')">
-                                    Flitskaarte
-                                </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Strukture', 'A')">
-                                    Keuse Vrae
-                                </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button type="button" onclick="redirectToPage('gr4nw3.html')" class="btn btn-link btn-link-custom p-0">Sketse</button>
-                            </li>
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'Strukture', 'A')" 
-                                    class="btn btn-link btn-link-custom p-0">
-                                    Invul vrae</button>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <!-- Add similar blocks for other subjects with the same structure -->
-            <div class="col-md-4 mb-4">
-                <div class="card" style="width: 18rem;">
-                    <img src="/static/images/grade4subjects/nw.jpg" class="card-img-top" alt="Natuurwetenskap">
-                    <div class="card-body">
-                        <h5 class="card-title">Eksamen</h5>
-                        <ul class="list-group list-group-flush">
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'all', 'A')">
-                                    Flitskaarte
-                                </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'All', 'A')">
-                                    Keuse Vrae
-                                </button>
-                            </li>
-                            <li class="list-group-item">
-                                <button type="button" onclick="redirectToPage('gr4nw3.html')" class="btn btn-link btn-link-custom p-0">Sketse</button>
-                            </li>
-                            <li class="list-group-item">
-                                <button 
-                                    type="button" 
-                                    class="btn btn-link btn-link-custom p-0" 
-                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Natuurwetenskap', 'Kwartaal 1', 'all', 'A')">
-                                    Invul Vrae
-                                </button>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+            
+           
         </div>
     </div>
-    {% include 'footer.html' %}
+  
 
     <script>
-        function redirectToPage(page, grade, subject, quarter, topic, category) {
-            // Construct the query parameters for the selected options
+         function redirectToPage(page, grade, subject, quarter, chapter, category, dataPath = '') {
             const queryParams = new URLSearchParams({
                 grade: grade,
                 subject: subject,
                 quarter: quarter,
-                topic: topic,
-                category: category
+                chapter: chapter,
+                category: category,
+                dataPath: dataPath
             });
 
-            // Redirect to the page with the query parameters
-            window.location.href = `/${page}?${queryParams.toString()}`;
+            // Remove .html from the page name for Flask routing
+            const fullUrl = `/${page.replace('.html', '')}?${queryParams.toString()}`;
+            console.log("Redirecting to:", fullUrl);  // Debugging output
+
+            window.location.href = fullUrl;
         }
+
+
     </script>
+    
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
 </body>

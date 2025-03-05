@@ -18,8 +18,8 @@
         "chapter": "Positiewe selfagting",
         "category": "Meerkeusevrae",
         "question": "Wat is puberteit?",
-        "options": ["Die stadium waarin jongmense seksueel ryp word en kinders kan voortbring.", "Wanneer 'n kind leer praat.", "Die tydperk tussen kinderjare en volwassenheid.", "Die tydperk tussen geboorte en ouderdom 5."],
-        "answer": ["Die stadium waarin jongmense seksueel ryp word en kinders kan voortbring."]
+        "options": ["Die stadium waarin jongmense se liggame verander en hulle geslagsvolwasse word.", "Wanneer 'n kind leer praat.", "Die tydperk tussen kinderjare en volwassenheid.", "Die tydperk tussen geboorte en ouderdom 5."],
+        "answer": ["Die stadium waarin jongmense se liggame verander en hulle geslagsvolwasse word."]
     },
     {
         "id": 3,
@@ -51,7 +51,7 @@
         "chapter": "Positiewe selfagting",
         "category": "Meerkeusevrae",
         "question": "Wat is selfagting?",
-        "options": ["Die manier waarop jy oor jouself as persoon dink en voel.", "Die manier waarop ander mense jou sien.", "Eienskappe van jou liggaam, byvoorbeeld blou oë of lang hare", "Hoe suksesvol jy in sport is."],
+        "options": ["Die manier waarop jy oor jouself as persoon dink en voel.", "Die manier waarop ander mense jou sien.", "Eienskappe van jou liggaam, byvoorbeeld blou oë of lang hare.", "Hoe suksesvol jy in sport is."],
         "answer": ["Die manier waarop jy oor jouself as persoon dink en voel."]
     },
     {
@@ -95,8 +95,8 @@
         "chapter": "Positiewe selfagting",
         "category": "Meerkeusevrae",
         "question": "Hoe ontwikkel ons 'n positiewe liggaamsbeeld?",
-        "options": ["Glo dat jy waardevol is en geliefd en gerespekteer behoort te word vir wie jy is.", "Vergelyk jouself met mense op sosiale media en probeer soos hulle lyk.", "Kyk in die spieël en fokus op jou foute.", "Doen oefeninge en eet gesond."],
-        "answer": ["Glo dat jy waardevol is en geliefd en gerespekteer behoort te word vir wie jy is."]
+        "options": ["Aanvaar en waardeer jou liggaam, fokus op jou sterkpunte en vermy negatiewe vergelykings met ander.", "Vergelyk jouself met mense op sosiale media en probeer soos hulle lyk.", "Kyk in die spieël en fokus op jou foute.", "Doen oefeninge en eet gesond."],
+        "answer": ["Aanvaar en waardeer jou liggaam, fokus op jou sterkpunte en vermy negatiewe vergelykings met ander."]
     },
     {
         "id": 10,

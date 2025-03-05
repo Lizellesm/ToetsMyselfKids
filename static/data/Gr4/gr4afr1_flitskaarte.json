@@ -37,7 +37,7 @@
         "chapter":"Sinonieme",
         "category":"Flitskaarte",
         "question":"Wat is die sinoniem van: smaaklik?",
-        "answer":"lekker / heerlik"       
+        "answer":"lekker en heerlik"       
     },
     {
         "id":5,
@@ -770,7 +770,7 @@
         "answer": "vader"
     },
     {
-        "id": 77,
+        "id": 78,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -780,7 +780,7 @@
         "answer": "vriend"
     },
     {
-        "id": 78,
+        "id": 79,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -790,7 +790,7 @@
         "answer": "pappa"
     },
     {
-        "id": 79,
+        "id": 80,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -800,7 +800,7 @@
         "answer": "haan"
     },
     {
-        "id": 80,
+        "id": 81,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -810,7 +810,7 @@
         "answer": "bakker"
     },
     {
-        "id": 81,
+        "id": 82,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -820,7 +820,7 @@
         "answer": "sportman"
     },
     {
-        "id": 82,
+        "id": 83,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -830,7 +830,7 @@
         "answer": "broer"
     },
     {
-        "id": 83,
+        "id": 84,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -840,7 +840,7 @@
         "answer": "bruidegom"
     },
         {
-        "id": 84,
+        "id": 85,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -850,7 +850,7 @@
         "answer": "Wees versigtig vir iemand."
     },
     {
-        "id": 85,
+        "id": 86,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -860,7 +860,7 @@
         "answer": "Kyk eers goed voor jy iets besluit."
     },
     {
-        "id": 86,
+        "id": 87,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -870,7 +870,7 @@
         "answer": "Iets koop wat min werd is."
     },
     {
-        "id": 87,
+        "id": 88,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -880,7 +880,7 @@
         "answer": "As niemand kyk nie, maak ek nes ek wil."
     },
     {
-        "id": 88,
+        "id": 89,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -890,7 +890,7 @@
         "answer": "'n Mens moet nie oorhaastig optree nie."
     },
     {
-        "id": 89,
+        "id": 90,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -900,7 +900,7 @@
         "answer": "Wees versigtig."
     },
     {
-        "id": 90,
+        "id": 91,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -910,7 +910,7 @@
         "answer": "Vlug of weghardloop."
     },
     {
-        "id": 91,
+        "id": 92,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -920,17 +920,17 @@
         "answer": "Die ergste is al verby."
     },
     {
-        "id": 92,
+        "id": 93,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Idiome",
         "category": "Flitskaarte",
         "question": "Iets lag-lag doen.",
-        "answer": "Die ergste is al verby."
+        "answer": "Iets maklik en sonder moeite doen."
     },
     {
-        "id": 93,
+        "id": 94,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",

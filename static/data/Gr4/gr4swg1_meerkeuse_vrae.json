@@ -1,0 +1,214 @@
+[
+    {
+        "id": 1,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Inligting",
+        "category": "Meerkeusevrae",
+        "question": "Ons kan inligting uit prente kry deur:",
+        "options": ["📰 Die plaaslike koerant", "📸 Foto's", "🏛️ Monumente", "🧑‍🤝‍🧑 Mense"],
+        "answer": ["📸 Foto's"]
+    },
+    {
+        "id": 2,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Inligting",
+        "category": "Meerkeusevrae",
+        "question": "Ons kan inligting uit goed wat geskryf is in:",
+        "options": ["📰 Die plaaslike koerant", "📸 Foto's", "🏛️ Monumente", "🧑‍🤝‍🧑 Mense"],
+        "answer": ["📰 Die plaaslike koerant"]
+    },
+    {
+        "id": 3,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Inligting",
+        "category": "Meerkeusevrae",
+        "question": "Ons kan inligting uit stories van:",
+        "options": ["📰 Die plaaslike koerant", "📸 Foto's", "🏛️ Monumente", "🧑‍🤝‍🧑 Mense"],
+        "answer": ["🧑‍🤝‍🧑 Mense"]
+    },
+    {
+        "id": 4,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Inligting",
+        "category": "Meerkeusevrae",
+        "question": "Ons kan inligting uit voorwerpe van:",
+        "options": ["📰 Die plaaslike koerant", "📸 Foto's", "🏛️ Monumente", "🧑‍🤝‍🧑 Mense"],
+        "answer": ["🏛️ Monumente"]
+    },
+    {
+        "id": 5,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Inligting",
+        "category": "Meerkeusevrae",
+        "question": "Wanneer ons iets rangskik in die volgorde waarin dit gebeur het, noem ons dit:",
+        "options": ["Chronologiese volgorde", "Alfabetiese volgorde", "Numeriese volgorde", "Willekeurige volgorde"],
+        "answer": ["Chronologiese volgorde"]
+    },
+    {
+        "id": 6,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Inligting",
+        "category": "Meerkeusevrae",
+        "question": "Die plek waar ons dokumente met inligting oor die geskiedenis van 'n plek of persoon bewaar, noem ons:",
+        "options": ["Argiewe", "Museum", "Biblioteek", "Skool"],
+        "answer": ["Argiewe"]
+    },
+    {
+        "id": 7,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Waar kry Bloemfontein sy naam?",
+        "options": ["Die plaas Bloemfontein", "Die Mangaung Metro Raad", "Majoor Henry se kinders se onderwyser.", "Die plek van die jagluiperds."],
+        "answer": ["Die plaas Bloemfontein"]
+    },
+    {
+        "id": 8,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Waar is Bloemfontein geleë?",
+        "options": ["In die middel van die Vrystaat", "Suid-Vrystaat naby Oranjerivier", "Oos Vrystaat naby Phillipolis", "Wes Vrystaat naby Kimberley"],
+        "answer": ["In die middel van die Vrystaat"]
+    },
+    {
+        "id": 9,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Watter heuwels is die bekendste in Bloemfontein?",
+        "options": ["Naval Hill en Seinheuwel", "Vrystaat en Oranje", "Mangaung en Bloemfontein", "Vrystaat en Seinheuwel"],
+        "answer": ["Naval Hill en Seinheuwel"]
+    },
+    {
+        "id": 10,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Wat beteken die naam Mangaung?",
+        "options": ["Plek van die jagluiperds", "Plek van die olifante", "Plek van die renosters", "Plek van die seekoeie"],
+        "answer": ["Plek van die jagluiperds"]
+    },
+    {
+        "id": 11,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Waar is die settelaars toegelaat om te woon?",
+        "options": ["Tussen Rietrivier en Modderrivier", "Tussen Rietrivier en Oranjerivier", "Tussen Modderrivier en Oranjerivier", "Tussen Oranjerivier en Vaalrivier"],
+        "answer": ["Tussen Rietrivier en Modderrivier"]
+    },
+    {
+        "id": 12,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Wie was die Griekwahoofman?",
+        "options": ["Adam Kok", "Majoor Henry Warden", "Johannes Brits", "Henry Green"],
+        "answer": ["Adam Kok"]
+    },
+    {
+        "id": 13,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Wie was leier van die Engelse soldate?",
+        "options": ["Adam Kok", "Majoor Henry Warden", "Johannes Brits", "Henry Green"],
+        "answer": ["Majoor Henry Warden"]
+    },
+    {
+        "id": 14,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Waar het Majoor Henry Warden eers gebly voordat hy Bloemfontein toe gekom het?",
+        "options": ["Philippolis", "Kimberley", "Transvaal", "Oranjerivier"],    
+        "answer": ["Philippolis"]    
+    },  
+    {
+        "id": 15,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Hoekom het Majoor Henry Warden van die plaas Bloemfontein gehou?",
+        "options": ["Dit het koppies en fonteine gehad.", "Daar is heelwat riviere in die omgewing.", "Dit is amper in middel van Vrystaat", "Die omgewing is mooi."],    
+        "answer": ["Dit het koppies en fonteine gehad."]    
+    },  
+    {
+        "id": 16,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "By wie het Majoor Henry Warden in 1846 die plaas Bloemfontein gekoop?",
+        "options": ["Adam Kok", "Majoor Henry Warden", "Johannes Brits", "Henry Green"],
+        "answer": ["Johannes Brits"]
+    },  
+    {
+        "id": 17,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Hoekom het Majoor Henry Warden 'n fort gebou?",
+        "options": ["Om sy mense teen vyande te beskerm.", "Om in te kan bly.", "Om ver in die Vrystaat te kan sien.", "Om handel te dryf."],
+        "answer": ["Om sy mense teen vyande te beskerm."]
+    },   
+    {
+        "id": 18,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "Wat is die eerste fort se naam?",
+        "options": ["Fort Drury", "Queensfort", "Bloemfontein", "Mangaung"],
+        "answer": ["Fort Drury"]
+    },
+    {
+        "id": 19,
+        "grade": "Graad 4",
+        "subject": "Geskiedenis",
+        "quarter": "Kwartaal 1",
+        "chapter": "Bloemfontein",
+        "category": "Meerkeusevrae",
+        "question": "In 1848 het die Britse regering die Vrystaat geannekseer vanaf Bloemfontein tot waar?",
+        "options": ["Oranjerivier", "Modderrivier", "Rietrivier", "Philippolis"],
+        "answer": ["Oranjerivier"]
+    }    
+    
+
+
+]

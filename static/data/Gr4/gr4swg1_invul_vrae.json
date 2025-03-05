@@ -1,0 +1,173 @@
+[
+    {
+        "id":1,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Invul vrae",
+        "question":"Foto's is inligting uit _____",
+        "answer":["prent", "prente"]       
+    },
+    {
+        "id":2,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Invul vrae",
+        "question":"Koerante is inligting uit dinge wat____ is.",
+        "answer":["geskryf"]       
+    },
+    {
+        "id":3,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Invul vrae",
+        "question":"Om met iemand te gesels is inligting uit _____",
+        "answer":["stories", "onderhoud", "onderhoude", "storie"]       
+    },
+    {
+        "id":4,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Invul vrae",
+        "question":"Iets wat gebou is om iemand of 'n gebeurtenis te onthou noem ons 'n _____",
+        "answer":["monument"]       
+    },
+    {
+        "id":5,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Invul vrae",
+        "question":"Wanneer ons iets rangskik in die volgorde waarin dit gebeur het, noem ons dit _____",
+        "answer":["chronologiese volgorde"]       
+    },
+    {
+        "id":6,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Invul vrae",
+        "question":"Die plek waar dokumente met inligting oor die geskiedenis van 'n plek of persoon bewaar word, noem ons _____",
+        "answer":["argiewe", "afgief"]
+    },
+    {
+        "id":7,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Die plaas se naam waar die dorpie Bloemfontein gebou is, is _____",
+        "answer":["Bloemfontein"]
+    },
+    {
+        "id":8,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Bloemfontein is in die _____ van die Vrystaat geleë.",
+        "answer":["middel"]
+    },
+    {
+        "id":9,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Noem een van die twee bekende heuwels in Bloemfontein.",
+        "answer":["Navil Hill", "Seinheuwel"]
+    },
+    {
+        "id":10,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Die woord vir: Plek van die jagluiperds",
+        "answer":["Mangaung"]
+    },
+    {
+        "id":11,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Wie was die Griekwahoofman?",
+        "answer":["Adam Kok"]
+    },
+    {
+        "id":12,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Noem een van die riviere waar Adam Kok die eerste setlaars laat woon het?",
+        "answer":["Rietrivier", "Modderrivier"]
+    },
+    {
+        "id":13,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Wie was die Engelse majoor wat Bloemfontein toe getrek het?",
+        "answer":["Majoor Henry Warden", "Henry Warden"]
+    },
+    {
+        "id":14,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Waar het Majoor Henry Warden gewoon voordat hy na Bloemfontein getrek het?",
+        "answer":["Phillippolis"]
+    },
+    {
+        "id":15,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"By wie het Majoor Henry Warden die plaas Bloemfontein gekoop?",
+        "answer":["Johannes Brits"]
+    },
+    {
+        "id":16,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Wat het Majoor Henry Warden gebou om die mense te beskerm?",
+        "answer":["fort", "'n fort"]
+    },
+    {
+        "id":17,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Invul vrae",
+        "question":"Wat was die naam van die eerste fort in Bloemfontein?",
+        "answer":["fort Drury", "Drury"]
+    }
+
+]

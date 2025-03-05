@@ -49,6 +49,10 @@ def gr6nw1():
 def gr6lv1():
     return render_template('gr6lv1.html')
 
+@app.route('/gr4swg1')
+def gr4swg1():
+    return render_template('gr4swg1.html')
+
 
 
 

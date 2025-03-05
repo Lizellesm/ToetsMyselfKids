@@ -1,0 +1,202 @@
+[
+    {
+        "id":1,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Flitskaarte",
+        "question":"Noem vier maniere hoe ons inligting oor ons omgewing kan uitvind.",
+        "answer":"1. Inligting uit prente. \n2. Inligting uit boeke. \n3. Inligting uit mense, stories en onderhoude. \n4. Inligting uit voorwerpe."       
+    },
+    {
+        "id":2,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n onderhoud?",
+        "answer":"Om met mense te praat en vrae te vra oor hulle lewens en ervarings."       
+    },
+    {
+        "id":3,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n monument?",
+        "answer":"'n Monument is 'n spesiale gebou, standbeeld of struktuur wat gebou is om 'n belangrike persoon of gebeurtenis te onthou."       
+    },
+    {
+        "id":4,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Flitskaarte",
+        "question":"Waar kan ons inligting kry wat geskryf is?",
+        "answer":"Ons kan geskryfde inligting kry uit koerante, boeke, tydskrifte en webwerwe."       
+    },
+    {
+        "id":5,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Flitskaarte",
+        "question":"Wat beteken chronologiese volgorde?",
+        "answer":"Gerangskik in die volgorde waarin dit gebeur het."       
+    },
+    {
+        "id":6,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Inligting",
+        "category":"Flitskaarte",
+        "question":"Wat is argiewe?",
+        "answer":"Plekke waar dokumente met inligting oor die geskiedenis van 'n plek of persoon bewaar word."       
+    },
+    {
+        "id":7,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Waar het Bloemfontein sy naam gekry?",
+        "answer":"Die plaas Bloemfontein waarop die dorp gebou is."       
+    },
+    {
+        "id":8,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Waar is Bloemfontein geleë?",
+        "answer":"Amper in die middel van die Vrystaat"       
+    },
+    {
+        "id":9,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Noem twee bekende heuwels in Bloemfontein?",
+        "answer":"1. Naval Hill \n2. Seinheuwel"       
+    },
+    {
+        "id":10,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Wat beteken die woord 'Mangaung'?",
+        "answer":"Plek van die jagluiperds."       
+    },
+    {
+        "id":11,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Wie het die settelaars toegelaat om hier in die Bloemfontein omgewing te woon?",
+        "answer":"Adam Kok"       
+    },
+    {
+        "id":12,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Tussen watter twee riviere is die settelaars toegelaat om te woon in die Bloemfontein omgewing?",
+        "answer":"1. Rietrivier \n2. Modderrivier"       
+    },
+    {
+        "id":13,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Wie was die Engelse soldate se leier?",
+        "answer":"Majoor Henry Warden"       
+    },
+    {
+        "id":14,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Waar het die Engelse soldate en hulle leier eers gebly?",
+        "answer":"Philipolis"       
+    },
+    {
+        "id":15,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"aarom het Majoor Warden van die plaas Bloemfontein gehou?",
+        "answer":"1. Dit het koppies gehad om 'n fort te bou. \n2. Daar was water met die fonteine op die plaas."       
+    },
+    {
+        "id":16,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Van wie het Majoor Warden die plaas gekoop, en wanneer?",
+        "answer":"Mnr Johannes Brits in 1846."       
+    },
+    {
+        "id":17,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Hoekom het Majoor Warden 'n fort gebou?",
+        "answer":"Om die mense te beskerm teen vyande."       
+    },
+    {
+        "id":18,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Wat is die naam van die eerste fort?",
+        "answer":"Fort Drury"       
+    },
+    {
+        "id":19,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"THoe ver het die Britse regering in 1848 die Vrystaat geannekseer?",
+        "answer":"Tot teen die Oranjerivier."       
+    },
+    {
+        "id":20,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bloemfontein",
+        "category":"Flitskaarte",
+        "question":"Wie was die Griekwahoofman?",
+        "answer":"Adam Kok"       
+    }
+]

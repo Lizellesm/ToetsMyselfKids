@@ -17,7 +17,7 @@
         "quarter": "Kwartaal 1",
         "chapter": "Plante & voedsel",
         "category": "Meerkeusevrae",
-        "question": "Watter een is 'n suiker wat gebruik word vir energie bron vir lewende organismes?",
+        "question": "Watter een is 'n suiker wat gebruik word vir energiebron vir lewende organismes?",
         "options": ["Glukose", "Saad", "Water", "Sonlig"],
         "answer": ["Glukose"]
     },
@@ -40,7 +40,7 @@
         "chapter": "Plante & voedsel",
         "category": "Meerkeusevrae",
         "question": "Wanneer plante te veel glukose maak, omskep hulle die glukosesuiker in?",
-        "options": ["Stysel", "Protiene", "Vette en olies", "Vitamienes en minerale"],
+        "options": ["Stysel", "Proteïene", "Vette en olies", "Vitamienes en minerale"],
         "answer": ["Stysel"]
     },
     {
@@ -51,8 +51,8 @@
         "chapter": "Plante & voedsel",
         "category": "Meerkeusevrae",
         "question": "Watter dele van plante kan stysel stoor?",
-        "options": ["Alle dele van 'n plant", "Slegs blare", "Slegs Wortels", "Stam, vrugte en sade"],
-        "answer": ["Al die dele van 'n plant"]
+        "options": ["Alle dele van 'n plant", "Slegs blare", "Slegs wortels", "Slegs stam"],
+        "answer": ["Alle dele van 'n plant"]
     },
     {
         "id": 6,
@@ -61,7 +61,7 @@
         "quarter": "Kwartaal 1",
         "chapter": "Plante & voedsel",
         "category": "Meerkeusevrae",
-        "question": "Watter plant is nie 'n voorbeeld van stysel plant nie?",
+        "question": "Watter plant is nie 'n voorbeeld van styselplant nie?",
         "options": ["Neute", "Aartappels", "Mielies.", "Koring"],
         "answer": ["Neute"]
     },
@@ -73,7 +73,7 @@
         "chapter": "Plante & voedsel",
         "category": "Meerkeusevrae",
         "question": "Wat noem ons 'n stoorproduk in plante?",
-        "options": ["Stysel", "Protiene", "Vitamiene.", "Olies"],
+        "options": ["Stysel", "Proteïene", "Vitamiene.", "Olies"],
         "answer": ["Stysel"]
     },
     {
@@ -227,7 +227,7 @@
         "chapter": "Voedselgroepe",
         "category": "Meerkeusevrae",
         "question": "Watter een is nie deel van die vier hoofvoedselgroepe nie?",
-        "options": ["Koolstofdioksied", "Proteiene", "Vette en olies", "Vitamiene en minerale"],
+        "options": ["Koolstofdioksied", "Proteïene", "Vette en olies", "Vitamiene en minerale"],
         "answer": ["Koolstofdioksied"]
     },
     {
@@ -238,7 +238,7 @@
         "chapter": "Voedselgroepe",
         "category": "Meerkeusevrae",
         "question": "Hoe word voedsel in voedselgroepe geplaas?",
-        "options": ["Volgens funksies in jou liggaam.", "Volgens die hoof-voedingstowwe.", "Volgense funksie en hoof-voedingstowwe", "Volgense kleur en grootte."],
+        "options": ["Volgens funksies in jou liggaam.", "Volgens die hoof-voedingstowwe.", "Volgens funksie en hoof-voedingstowwe", "Volgens kleur en grootte."],
         "answer": ["Volgense funksie en hoof-voedingstowwe"]
     },
     {
@@ -292,7 +292,7 @@
         "quarter": "Kwartaal 1",
         "chapter": "Voedselgroepe",
         "category": "Meerkeusevrae",
-        "question": "Watter item bevat proteine?",
+        "question": "Watter item bevat proteïene?",
         "options": ["Gedroogte vrugte", "Bone", "Yogurt", "Vars vrugte"],
         "answer": ["Bone"]
     },
@@ -347,7 +347,7 @@
         "quarter": "Kwartaal 1",
         "chapter": "Voedselgroepe",
         "category": "Meerkeusevrae",
-        "question": "Watter minerales kry ons in voedsel?",
+        "question": "Watter minerale kry ons in voedsel?",
         "options": ["Kalsium, yster en jodium", "Kalsium, yster en suurstof", "Kalsium, yster en glukose", "Kalsium, yster en proteien"],
         "answer": ["Kalsium, yster en jodium"]
     },
@@ -370,7 +370,7 @@
         "chapter": "Voedsel",
         "category": "Meerkeusevrae",
         "question": "Wat is voedsel-bymiddels?",
-        "options": ["Preserveermiddels", "Geur en kleur middels", "Smaak of voorkoms te verbeter", "Alles reeds genoem"],
+        "options": ["Preserveermiddels", "Geur- en kleurmiddels", "Smaak of voorkoms te verbeter", "Alles reeds genoem"],
         "answer": ["Alles reeds genoem"]
     },
     {
@@ -413,7 +413,7 @@
         "quarter": "Kwartaal 1",
         "chapter": "Voedsel",
         "category": "Meerkeusevrae",
-        "question": "Die bymiddel om voedsel se voorkom te verbeter?",
+        "question": "Die bymiddel om voedsel se voorkoms te verbeter?",
         "options": ["Geurmiddels", "Preserveermiddels", "Kleursel", "Water"],
         "answer": ["Kleursel"]
     }

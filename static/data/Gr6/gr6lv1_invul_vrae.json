@@ -16,8 +16,8 @@
         "quarter":"Kwartaal 1",
         "chapter":"Positiewe selfagting",
         "category":"Invul vrae",
-        "question":"Watter woord beskryf die stadium waar jongmense seksueel ryp word en kinders kan voortbring?",
-        "answer":["pubertiteit"]
+        "question":"Watter woord beskryf die stadium waarin 'n kind se liggaam fisies en emosioneel verander na volwassenheid?",
+        "answer":["puberteit"]
     },
     {
         "id":3,
@@ -26,7 +26,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Positiewe selfagting",
         "category":"Invul vrae",
-        "question":"Watter woord beskrrrrrrryf stof wat deur die liggaam geproduseer word?",
+        "question":"Watter woord beskryf stof wat deur die liggaam geproduseer word?",
         "answer":["hormone"]
     },
     {
@@ -36,7 +36,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Positiewe selfagting",
         "category":"Invul vrae",
-        "question":"Watter woord beskryf die manier waaroor jy aan jou liggaam dink en daaroor voel?",
+        "question":"Watter woord beskryf die manier waarop jy oor jou liggaam dink en daaroor voel?",
         "answer":["liggaamsbeeld"]
     },
     {
@@ -50,24 +50,14 @@
         "answer":["selfagting"]
     },
     {
-        "id":5,
-        "grade":"Graad 6",
-        "subject":"Lewensvaardigheid",
-        "quarter":"Kwartaal 1",
-        "chapter":"Positiewe selfagting",
-        "category":"Invul vrae",
-        "question":"Watter woord beskryf wat verband hou met jou liggaam byvoorbeeld groot oë?",
-        "answer":["fisiese kenmerke"]
-    },
-    {
         "id":6,
         "grade":"Graad 6",
         "subject":"Lewensvaardigheid",
         "quarter":"Kwartaal 1",
         "chapter":"Positiewe selfagting",
         "category":"Invul vrae",
-        "question":"Watter woord beskryf kwaliteite wat 'n persoon besit byvoorbeel vriendelikheid of eerlikheid?",
-        "answer":["eienskappe"]
+        "question":"Watter woord beskryf iets wat met jou liggaam verband hou, byvoorbeeld groot oë?",
+        "answer":["fisiese kenmerke"]
     },
     {
         "id":7,
@@ -76,11 +66,21 @@
         "quarter":"Kwartaal 1",
         "chapter":"Positiewe selfagting",
         "category":"Invul vrae",
-        "question":"Wat noem ons dit as jy glo met vrymoedigheid dat jy waardig is om geliefd en gerespekteerd te wees vir wie jys is?",
-        "answer":["positiewe liggaamsbeeld"]
+        "question":"Watter woord beskryf kwaliteite wat 'n persoon besit, byvoorbeeld vriendelikheid of eerlikheid?",
+        "answer":["eienskappe"]
     },
     {
         "id":8,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Invul vrae",
+        "question":"Wat verbeter jy wanneer jy jou sterkpunte erken en daaraan werk, en terselfdertyd jou liggaam versorg?",
+        "answer":["positiewe liggaamsbeeld"]
+    },
+    {
+        "id":9,
         "grade":"Graad 6",
         "subject":"Lewensvaardigheid",
         "quarter":"Kwartaal 1",

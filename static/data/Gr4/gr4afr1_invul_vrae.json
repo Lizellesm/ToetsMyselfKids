@@ -16,7 +16,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Sinonieme",
         "category":"Invul vrae",
-        "question":"WWat is die sinoniem van: pa?",
+        "question":"Wat is die sinoniem van: pa?",
         "answer":["vader"]
     },
     {
@@ -637,7 +637,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Vroulik",
         "category":"Invul vrae",
-        "question":"Wat is die vroulik van: bruidegom?",
+        "question":"Wat is die vroulike van: bruidegom?",
         "answer":["bruid"]        
     },
     {
@@ -647,7 +647,7 @@
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
         "category": "Invul vrae",
-        "question": "Wat is die vroulike vorm van: juffrou?",
+        "question": "Wat is die manlike vorm van: juffrou?",
         "answer": ["meneer"]
     },
     {
@@ -771,7 +771,7 @@
         "answer":["vader"]
     },
     {
-        "id": 77,
+        "id": 78,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -781,7 +781,7 @@
         "answer": ["vriend"]
     },
     {
-        "id": 78,
+        "id": 79,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -791,7 +791,7 @@
         "answer": ["pappa"]
     },
     {
-        "id": 79,
+        "id": 80,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -801,7 +801,7 @@
         "answer": ["haan"]
     },
     {
-        "id": 80,
+        "id": 81,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -811,7 +811,7 @@
         "answer": ["bakker"]
     },
     {
-        "id": 81,
+        "id": 82,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
@@ -821,17 +821,17 @@
         "answer":["sportman"]
     },
     {
-        "id": 82,
+        "id": 83,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",
         "chapter": "Manlik",
         "category": "Invul vrae",
-        "question": "Wat is die manlike vorm van: sister?",
+        "question": "Wat is die manlike vorm van: suster?",
         "answer": ["broer"]
     },
     {
-        "id": 83,
+        "id": 84,
         "grade": "Graad 4",
         "subject": "Afrikaans",
         "quarter": "Kwartaal 1",

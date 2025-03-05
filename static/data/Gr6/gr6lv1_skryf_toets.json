@@ -1,0 +1,113 @@
+[
+    {
+        "id":1,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Wat is adolessensie? (1)",
+        "blanks": 1,
+        "image": null     
+    },
+    {
+        "id":2,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Wat is puberteit? (1)",
+        "blanks": 1,
+        "image": null   
+    },
+    {
+        "id":3,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Wat is hormone? (1)",
+        "blanks": 1,
+        "image": null       
+    },
+    {
+        "id":4,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Wat is liggaamsbeeld? (1)",
+        "blanks": 1,
+        "image": null        
+    },
+    {
+        "id":5,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Wat is selfagting? (1)",
+        "blanks": 1,
+        "image": null       
+    }, 
+    {
+        "id":6,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Wat is fisiese kenmerke? (1)",
+        "blanks": 1,
+        "image": null         
+    },
+    {
+        "id":7,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Wat beteken die term 'eienskappe'? (1)",
+        "blanks": 1,
+        "image": null       
+    },
+    {
+        "id":8,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Wat beïnvloed 'n mens se liggaamsbeeld? (1)",
+        "blanks": 1,
+        "image": null         
+    },
+    {
+        "id":9,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Hoe ontwikkel ons 'n positiewe liggaamsbeeld? (1)",
+        "blanks": 1,
+        "image": null          
+    },
+    {
+        "id":10,
+        "grade":"Graad 6",
+        "subject":"Lewensvaardigheid",
+        "quarter":"Kwartaal 1",
+        "chapter":"Positiewe selfagting",
+        "category":"Skryf",
+        "text":"Hoe bou ons selfagting? (1)",
+        "blanks": 1,
+        "image": null         
+    }
+    
+]

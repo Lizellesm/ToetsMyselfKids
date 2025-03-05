@@ -86,7 +86,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Plante & voedsel",
         "category":"Invul vrae",
-        "question":"Gluskose en _____ is produkte wat tydens fotosintese vervaardig word.",
+        "question":"Glukose en _____ is produkte wat tydens fotosintese vervaardig word.",
         "answer":["suurstof"]
     },
     {
@@ -136,7 +136,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Plante & lug",
         "category":"Invul vrae",
-        "question":"Watter gas gee mense en dier af wanneer hulle asemhaal.",
+        "question":"Watter gas gee mense en diere af wanneer hulle asemhaal.",
         "answer":["koolstofdioksied"]
     },
     {
@@ -206,7 +206,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Voedselgroepe",
         "category":"Invul vrae",
-        "question":"Die vier hoof voedselgroepe is proteïene, vette en olies, vitamineses en minerale en ______.",
+        "question":"Die vier hoof voedselgroepe is proteïene, vette en olies, vitamiene en minerale en ______.",
         "answer":["koolhidrate"]
     },
     {
@@ -226,7 +226,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Voedselgroepe",
         "category":"Invul vrae",
-        "question":"Stysel en suikers gee vir jou liggaan _____.",
+        "question":"Stysel en suikers gee vir jou liggaam _____.",
         "answer":["energie"]
     },
     {
@@ -267,7 +267,7 @@
         "chapter":"Voedselgroepe",
         "category":"Invul vrae",
         "question":"In watter voedselgroep val vis?",
-        "answer":["proteiene","proteïene"]
+        "answer":["proteïen","proteïene"]
     },
     {
         "id":28,
@@ -336,7 +336,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Voedsel",
         "category":"Invul vrae",
-        "question":"Wat noem ons goed wat my kos gevoeg word om die smaak, kleur, geur of tekstuur te verbeter?",
+        "question":"Wat noem ons goed wat by kos gevoeg word om die smaak, kleur, geur of tekstuur te verbeter?",
         "answer":["by-middels"]
     },
     {
@@ -346,7 +346,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Voedsel",
         "category":"Invul vrae",
-        "question":"Voedsel iln pakkies, blikkies en bottesl noem ons  _____ voedsel.",
+        "question":"Voedsel in pakkies, blikkies en botteld noem ons  _____ voedsel.",
         "answer":["verwerkte"]
     },
     {

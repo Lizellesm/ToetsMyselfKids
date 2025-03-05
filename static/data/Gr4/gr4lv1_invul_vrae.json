@@ -16,7 +16,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Persoonlike sterkpunte",
         "category":"Invul vrae",
-        "question":"Om spesiaal te wees beteken om ____  of beter as ander te wees.",
+        "question":"Om spesiaal te wees beteken om ____ te wees, nie noodwendig beter as ander nie.v",
         "answer":["anders", "uniek"]       
     },
     {
@@ -76,7 +76,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Respek vir jou liggaam",
         "category":"Invul vrae",
-        "question":"Deur jou liggaam te respekteer, kan jy dit gesond en goed versorg hou.",
+        "question":"Deur jou liggaam te respekteer, kan jy dit goed versorg en gesond hou.",
         "answer":["respekteer"]       
     },
     {
@@ -106,7 +106,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Respek vir jou liggaam",
         "category":"Invul vrae",
-        "question":"Mense kan verslaaf raak aan: _____, gom snuif, alkohol drink en dwelmmiddels gebruik.",
+        "question":"Mense kan verslaaf raak aan: ____, gom, alkohol en dwelmmiddels.",
         "answer":["rook"]       
     },
     {
@@ -146,8 +146,8 @@
         "quarter":"Kwartaal 1",
         "chapter":"Konflik",
         "category":"Invul vrae",
-        "question":"Mens kan konflik hanteer deur te ____ oor die probleem.",
-        "answer":["praat"]       
+        "question":"Mens kan konflik hanteer deur oor die probleem te ___.",
+        "answer":["praat", "gesels"]       
     },
     {
         "id":16,
@@ -156,7 +156,7 @@
         "quarter":"Kwartaal 1",
         "chapter":"Respek vir jou liggaam",
         "category":"Invul vrae",
-        "question":"Een woord vir: 'n Versameling prente of woorde oor een onderwerp wat op 'n papier of karton geplak is.",
+        "question":"Een woord vir: 'n Prentversameling wat op 'n papier of karton geplak is.",
         "answer":["collage"]       
     },
     {
