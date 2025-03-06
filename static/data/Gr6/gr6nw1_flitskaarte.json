@@ -26,8 +26,8 @@
         "quarter":"Kwartaal 1",
         "chapter":"Plante & voedsel",
         "category":"Flitskaarte",
-        "question":"Waar vind fotosintese plaas?",
-        "answer":"Fotosintese vind hoofsaaklik in die blare plaas."       
+        "question":"Op watter deel van 'n plant vind fotosintese plaas?",
+        "answer":"🌿\nFotosintese vind hoofsaaklik in die blare plaas."       
     },
     {
         "id":4,
@@ -87,7 +87,7 @@
         "chapter":"Plante & voedsel",
         "category":"Flitskaarte",
         "question":"Noem twee produkte wat plante tydens fotosintese vervaardig?",
-        "answer":"1. Suurstof 2. Glukose"       
+        "answer":"Suurstof en glukose"       
     },
     {
         "id":10,

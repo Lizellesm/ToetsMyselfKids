@@ -18,12 +18,12 @@
       </style>
 </head>
 <body>
- 
+  {% include 'header.html' %}
 
   <div class="px-4 pt-5 my-5 text-center border-bottom">
-    <h1 class="display-4 fw-bold text-body-emphasis">Ken jy jou leerwerk?</h1>
+    <h1 class="display-4 fw-bold text-body-emphasis">Vra, vrae en nog vrae! 🎓</h1>
     <div class="col-lg-6 mx-auto">
-      <p class="lead mb-4">Ná jy jou werk geleer het, kan jy hierdie webwerf gebruik om jouself te toets en te kyk of jy dalk 'n ekstra bietjie moet leer – soos 'n superheld wat sy kragte toets!</p>
+      <p class="lead mb-4">Jou maklike en vinnige manier om te toets of jou leerder hul werk ken!</p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center mb-5">
         <a href="{{ url_for('homegr4') }}" class="btn btn-primary btn-lg px-4 me-sm-3">Graad 4</a>
         <a href="{{ url_for('homegr6') }}" class="btn btn-outline-secondary btn-lg px-4">Graad 6</a>

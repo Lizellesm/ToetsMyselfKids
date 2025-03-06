@@ -49,11 +49,32 @@ def gr6nw1():
 def gr6lv1():
     return render_template('gr6lv1.html')
 
+@app.route('/gr6sw1')
+def gr6sw1():
+    return render_template('gr6sw1.html')
+
 @app.route('/gr4swg1')
 def gr4swg1():
     return render_template('gr4swg1.html')
 
+@app.route('/header')
+def header():
+    return render_template('header.html')
 
+
+@app.route('/user/<name>')
+def user(name):
+    return render_template('user.html', name=name)
+
+#Invalid URL
+@app.errorhandler(404)
+def page_not_found(e):
+    return render_template('404.html'), 404
+
+#Internal server error
+@app.errorhandler(500)
+def page_not_found(e):
+    return render_template('500.html'), 500
 
 
 
