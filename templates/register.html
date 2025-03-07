@@ -1,61 +1,30 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Registreer</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-</head>
-<body class="d-flex flex-column min-vh-100 bg-body-tertiary">
-    {% include 'header.html' %}
+{% extends "base.html" %}
 
+{% block title %}Registreer{% endblock %}
+
+{% block content %}
+<body class="d-flex flex-column min-vh-100 bg-body-tertiary">
     <div class="container my-5">
-        {% with messages = get_flashed_messages(with_categories=true) %}
-            {% if messages %}
-                {% for category, message in messages %}
-                    <div class="alert alert-{{ category }}" role="alert">
-                        {{ message }}
-                    </div>
-                {% endfor %}
-            {% endif %}
-        {% endwith %}
-        <form class="w-50 mx-auto" method="POST" action="{{ url_for('register') }}">
-            <img class="mb-4" src="/static/images/homepage/question-circle.svg" alt="Register Icon" width="72" height="57">
+        
+        <!-- Registration Form -->
+        <form class="w-50 mx-auto" method="POST" action="{{ url_for('register_user') }}">
+            {{ form.hidden_tag() }}  <!-- Proper CSRF token handling -->
+            
             <h1 class="h3 mb-3 fw-normal">Registreer</h1>
         
             <div class="form-floating mb-3">
-                <input type="text" class="form-control" id="floatingName" name="name" placeholder="Jou naam" required>
+                {{ form.name(class="form-control", id="floatingName", placeholder="Jou naam", required=True) }}
                 <label for="floatingName">Naam</label>
             </div>
+        
             <div class="form-floating mb-3">
-                <input type="email" class="form-control" id="floatingEmail" name="email" placeholder="naam@voorbeeld.com" required>
+                {{ form.email(class="form-control", id="floatingEmail", placeholder="naam@voorbeeld.com", required=True) }}
                 <label for="floatingEmail">Epos</label>
             </div>
-            <div class="form-floating mb-3">
-                <input type="password" class="form-control" id="floatingPassword" name="password" placeholder="Wagwoord" required>
-                <label for="floatingPassword">Wagwoord</label>
-            </div>
-            <div class="form-floating mb-3">
-                <input type="password" class="form-control" id="floatingConfirmPassword" name="confirm_password" placeholder="Bevestig Wagwoord" required>
-                <label for="floatingConfirmPassword">Bevestig Wagwoord</label>
-            </div>
-            <div class="form-floating mb-3">
-                <select class="form-select" id="floatingGrade" name="grade" required>
-                    <option value="" disabled selected>Kies jou graad</option>
-                    <option value="Grade 4">Graad 4</option>
-                    <option value="Grade 5">Graad 5</option>
-                    <option value="Grade 6">Graad 6</option>
-                </select>
-                <label for="floatingGrade">Graad</label>
-            </div>
         
-            <button class="btn btn-primary w-100 py-2" type="submit">Registreer</button>
-            <p class="mt-5 mb-3 text-body-secondary text-center">© 2024</p>
+            <button class="btn btn-primary w-100 py-2" type="submit">{{ form.submit.label }}</button>
         </form>
+        
     </div>   
-
-    {% include 'footer.html' %}
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 </body>
-</html>
+{% endblock %}
