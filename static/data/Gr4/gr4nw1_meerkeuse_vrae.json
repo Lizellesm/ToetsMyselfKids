@@ -581,6 +581,149 @@
         "question": "Die proses waar 'n saad begin uitspruit of groei.",
         "options": ["Steggie", "Wortels", "Blomme", "Ontkieming" ],
         "answer": ["Ontkieming"]
+    },
+    {
+        "id": 54,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "Wat noem ons: 'n Plek met beskutting, beskerming of veiligheid.",
+        "options": ["'n Skuiling", "'n Habitat", "'n Raamstruktuur", "'n Struktuur" ],
+        "answer": ["'n Skuiling"]
+    },
+    {
+        "id": 55,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "Hoekom het diere skuilings nodig? ",
+        "options": ["Beskerming teen weer en vyande.", "Om warm te slaap.", "Om kos te eet.", "Om 'n plek te hê om te bly." ],
+        "answer": ["Beskerming teen weer en vyande."]
+    },
+    {
+        "id": 56,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "Wat noem ons: Dit is skuilings wat diere vind of self maak.",
+        "options": ["Natuurlike skuiling", "Mensgemaakte skuiling", "Habitat", "Struktuur"],
+        "answer": ["Natuurlike skuiling"]
+    },
+    {
+        "id": 57,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "Dit is 'n voorbeeld van 'n natuurlik gevonde skuiling:",
+        "options": ["'n Grot", "'n Miershoop", "'n Hondehok", "'n Spinnekopweb"],
+        "answer": ["'n Grot"]
+    },
+    {
+        "id": 58,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "Dit is 'n voorbeeld van 'n natuurlik gemaakte skuiling:",
+        "options": ["'n Grot", "'n Miershoop", "'n Hondehok", "'n Spinnekopweb"],
+        "answer": ["'n Miershoop"]
+    },
+    {
+        "id": 59,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "Dit is 'n voorbeeld van 'n mensgemaakte skuiling:",
+        "options": ["'n Grot", "'n Miershoop", "'n Hondehok", "'n Spinnekopweb"],
+        "answer": ["'n Hondehok"]
+    },
+    {
+        "id": 60,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "Wat noem ons: Iets wat uit dele gemaak is en iets stut of ondersteun?",
+       "options": ["Natuurlike skuiling", "Mensgemaakte skuiling", "Habitat", "Struktuur"],
+        "answer": ["Struktuur"]
+    },
+    {
+        "id": 61,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "Dit is geboë en hol van binne:",
+       "options": ["Dopstruktuur", "Raamstruktuur", "Habitat", "Skuiling"],
+        "answer": ["Dopstruktuur"]
+    },
+    {
+        "id": 62,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "Dit is gemaak van saamgevoegde stukke:",
+       "options": ["Dopstruktuur", "Raamstruktuur", "Habitat", "Skuiling"],
+        "answer": ["Raamstruktuur"]
+    },
+    {
+        "id": 63,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Strukture",
+        "category": "Meerkeusevrae",
+        "question": "'n Plek waar 'n plant of dier natuurlik woon, noem ons 'n ____.",
+       "options": ["Dopstruktuur", "Raamstruktuur", "Habitat", "Skuiling"],
+        "answer": ["Habitat"]
+    },
+    {
+        "id": 64,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Habitat",
+        "category": "Meerkeusevrae",
+        "question": "'n Plek waar 'n plant of dier natuurlik woon.",
+       "options": ["Dopstruktuur", "Raamstruktuur", "Habitat", "Skuiling"],
+        "answer": ["Habitat"]
+    },
+    {
+        "id": 65,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Habitat",
+        "category": "Meerkeusevrae",
+        "question": "Watter een van die volgende is 'n tipe habitat?",
+       "options": ["Grasveld", "Woud", "Woestyn", "Almal reeds genoem"],
+        "answer": ["Almal reeds genoem"]
+    },
+    {
+        "id": 66,
+        "grade": "Graad 4",
+        "subject": "Natuurwetenskap",
+        "quarter": "Kwartaal 1",
+        "chapter": "Habitat",
+        "category": "Meerkeusevrae",
+        "question": "Watter een van die volgende is 'n roofdier?",
+       "options": ["Cheetah", "Olifant", "Skoenlapper", "Bokke"],
+        "answer": ["Cheetah"]
     }
 
     

@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graad 4</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        button.btn.btn-link.btn-link-custom {
+            color: grey;
+            text-decoration: none;
+        }
+
+        button.btn.btn-link.btn-link-custom:hover {
+            color: black;
+            text-decoration: none;
+        }
+    </style>
+</head>
+{% include 'header.html' %}
+<body class="d-flex flex-column min-vh-100 bg-body-tertiary">
+    
+    <div class="container my-5">
+        <h2 class="pb-2 border-bottom">Graad 4: Geskiedenis - Kwartaal 1</h2>
+        <div class="row">
+            <!-- Example for one subject -->
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/gr4sw1_inligting.jpg" class="card-img-top" alt="Natuurwetenskap">
+                    <div class="card-body">
+                    <h5 class="card-title">Woonplekke</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                    <button 
+                                        type="button" 
+                                        class="btn btn-link btn-link-custom p-0" 
+                                        onclick="redirectToPage('flashcard.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Woonplekke', 'Flitskaarte', './static/data/Gr4/gr4sw1_flitskaarte.json')">
+                                        Flitskaarte
+                                    </button>
+                            </li>
+                            <li class="list-group-item">
+                                    <button 
+                                        type="button" 
+                                        class="btn btn-link btn-link-custom p-0" 
+                                        onclick="redirectToPage('multiple.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Woonplekke', 'Meerkeusevrae', './static/data/Gr4/gr4sw1_meerkeuse_vrae.json')">
+                                        Keuse Vrae
+                                    </button>
+                            </li>
+                            <li class="list-group-item">
+                                    <button 
+                                        type="button" 
+                                        onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Woonplekke', 'Invul vrae', './static/data/Gr4/gr4sw1_invul_vrae.json')" 
+                                        class="btn btn-link btn-link-custom p-0">
+                                        Invul vrae</button>
+                            </li>
+                            <li class="list-group-item">
+                                    <button 
+                                        type="button" 
+                                        onclick="redirectToPage('skryfToets.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Woonplekke', 'Skryf', './static/data/Gr4/gr4sw1_skryf_toets.json')" 
+                                        class="btn btn-link btn-link-custom p-0">
+                                        Skryf toets</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Example for one subject -->
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/gr4sw1_inligting.jpg" class="card-img-top" alt="Natuurwetenskap">
+                    <div class="card-body">
+                    <h5 class="card-title">Bakens</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    class="btn btn-link btn-link-custom p-0" 
+                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bakens', 'Flitskaarte', './static/data/Gr4/gr4sw1_flitskaarte.json')">
+                                    Flitskaarte
+                                </button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    class="btn btn-link btn-link-custom p-0" 
+                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bakens', 'Meerkeusevrae', './static/data/Gr4/gr4sw1_meerkeuse_vrae.json')">
+                                    Keuse Vrae
+                                </button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bakens', 'Invul vrae', './static/data/Gr4/gr4sw1_invul_vrae.json')" 
+                                    class="btn btn-link btn-link-custom p-0">
+                                    Invul vrae</button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                type="button" 
+                                onclick="redirectToPage('skryfToets.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bakens', 'Skryf', './static/data/Gr4/gr4sw1_skryf_toets.json')" 
+                                class="btn btn-link btn-link-custom p-0">
+                                Skryf toets</button>
+                            </li>
+                      </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- Example for one subject -->
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/gr4sw1_inligting.jpg" class="card-img-top" alt="Natuurwetenskap">
+                    <div class="card-body">
+                        <h5 class="card-title">Behoeftes</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    class="btn btn-link btn-link-custom p-0" 
+                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Behoeftes', 'Flitskaarte', './static/data/Gr4/gr4sw1_flitskaarte.json')">
+                                    Flitskaarte
+                                </button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    class="btn btn-link btn-link-custom p-0" 
+                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Behoeftes', 'Meerkeusevrae', './static/data/Gr4/gr4sw1_meerkeuse_vrae.json')">
+                                    Keuse Vrae
+                                </button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Behoeftes', 'Invul vrae', './static/data/Gr4/gr4sw1_invul_vrae.json')" 
+                                    class="btn btn-link btn-link-custom p-0">
+                                    Invul vrae</button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    onclick="redirectToPage('skryfToets.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Behoeftes', 'Skryf', './static/data/Gr4/gr4sw1_skryf_toets.json')" 
+                                    class="btn btn-link btn-link-custom p-0">
+                                    Skryf toets</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>    
+            <!-- Example for one subject -->
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/gr4sw1_inligting.jpg" class="card-img-top" alt="Natuurwetenskap">
+                    <div class="card-body">
+                        <h5 class="card-title">Inligting</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    class="btn btn-link btn-link-custom p-0" 
+                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Inligting', 'Flitskaarte', './static/data/Gr4/gr4sw1_flitskaarte.json')">
+                                    Flitskaarte
+                                </button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    class="btn btn-link btn-link-custom p-0" 
+                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Inligting', 'Meerkeusevrae', './static/data/Gr4/gr4sw1_meerkeuse_vrae.json')">
+                                    Keuse Vrae
+                                </button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Inligting', 'Invul vrae', './static/data/Gr4/gr4sw1_invul_vrae.json')" 
+                                    class="btn btn-link btn-link-custom p-0">
+                                    Invul vrae</button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    onclick="redirectToPage('skryfToets.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Inligting', 'Skryf', './static/data/Gr4/gr4sw1_skryf_toets.json')" 
+                                    class="btn btn-link btn-link-custom p-0">
+                                    Skryf toets</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Example for one subject -->
+            <div class="col-md-4 mb-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="/static/images/grade4subjects/gr4swg1_bfn.jpg" class="card-img-top" alt="Natuurwetenskap">
+                    <div class="card-body">
+                        <h5 class="card-title">Nog dinge</h5>
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    class="btn btn-link btn-link-custom p-0" 
+                                    onclick="redirectToPage('flashcard.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bloemfontein', 'Flitskaarte', './static/data/Gr4/gr4sw1_flitskaarte.json')">
+                                    Flitskaarte
+                                </button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    class="btn btn-link btn-link-custom p-0" 
+                                    onclick="redirectToPage('multiple.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bloemfontein', 'Meerkeusevrae', './static/data/Gr4/gr4sw1_meerkeuse_vrae.json')">
+                                    Keuse Vrae
+                                </button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    onclick="redirectToPage('invulVrae.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bloemfontein', 'Invul vrae', './static/data/Gr4/gr4sw1_invul_vrae.json')" 
+                                    class="btn btn-link btn-link-custom p-0">
+                                    Invul vrae</button>
+                            </li>
+                            <li class="list-group-item">
+                                <button 
+                                    type="button" 
+                                    onclick="redirectToPage('skryfToets.html', 'Graad 4', 'Geskiedenis', 'Kwartaal 1', 'Bloemfontein', 'Skryf', './static/data/Gr4/gr4sw1_skryf_toets.json')" 
+                                    class="btn btn-link btn-link-custom p-0">
+                                    Skryf toets</button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            
+           
+        </div>
+    </div>
+  
+
+    <script>
+         function redirectToPage(page, grade, subject, quarter, chapter, category, dataPath = '') {
+            const queryParams = new URLSearchParams({
+                grade: grade,
+                subject: subject,
+                quarter: quarter,
+                chapter: chapter,
+                category: category,
+                dataPath: dataPath
+            });
+
+            // Remove .html from the page name for Flask routing
+            const fullUrl = `/${page.replace('.html', '')}?${queryParams.toString()}`;
+            console.log("Redirecting to:", fullUrl);  // Debugging output
+
+            window.location.href = fullUrl;
+        }
+
+
+    </script>
+    
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

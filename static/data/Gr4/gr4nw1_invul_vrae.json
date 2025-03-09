@@ -538,5 +538,150 @@
         "category":"Invul vrae",
         "question":"Ontkieming is die proses waar 'n saad begin uitspruit of ____.",
         "answer":["groei"]
+    },
+    {
+        "id":54,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Invul vrae",
+        "question":"'n Plek met beskutting, beskerming of veiligheid, noem ons?",
+        "answer":["skuiling", "skuilplek"]
+       
+    },
+    {
+        "id":55,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Invul vrae",
+        "question":"Diere het skuilings nodig vir beskerming teen die weer, _____ en 'n veilige plek om kleintjies te kry.",
+        "answer":["roofdiere", "vyande","vyand", "karnivore"]
+      
+    },
+    {
+        "id":56,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Invul vrae",
+        "question":"Skuilings wat diere vind of self maak, noem ons 'n ____ skuiling",
+        "answer":["natuurlike"]
+        
+    },
+    {
+        "id":57,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Invul vrae",
+        "question":"'n Grot noem ons 'n ____ skuiling.",
+        "answer":["natuurlike"]
+       
+    },
+    {
+        "id":58,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Invul vrae",
+        "question":"'n Miershoop noem ons 'n ____ skuiling",
+        "answer":["selfgemaakte","natuurlike selfgemaakte","natuurlike"]
+        
+    },
+    {
+        "id":59,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Invul vrae",
+        "question":"'n Hondehok noem ons 'n ____  skuiling.",
+        "answer":["mensgemaakte"]
+        
+    },
+    {
+        "id":60,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Invul vrae",
+        "question":"Wat noem ons iets wat uit dele gemaak is en iets stut of ondersteun?",
+        "answer":["struktuur", "strukture"]
+
+    },
+    {
+        "id":61,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Invul vrae",
+        "question":"Watter tipe struktuur is 'n slak se dop?",
+        "answer":["dopstruktuur"]
+        
+    },
+    {
+        "id":62,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Invul vrae",
+        "question":"Watter tipe stuktuur is 'n spinnerak?",
+        "answer":["raamstruktuur"]
+      
+    },
+    {
+        "id":63,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Habitat",
+        "category":"Invul vrae",
+        "question":"Wat noem ons: 'n Plek waar 'n plant of dier natuurlik woon?",
+        "answer":["habitat"]
+       
+    },
+    {
+        "id":64,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Habitat",
+        "category":"Invul vrae",
+        "question":"Verskillende habitatte is: Grasveld, ____, rivier, see, woestyn en poolstreke.",
+        "answer": ["woud","woude"]
+    
+
+    },
+    {
+        "id":65,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Habitat",
+        "category":"Invul vrae",
+        "question":"'n Dier benodig kos, _____, skuilplek, beskerming en 'n veilige plek om kleintjies te kry.",
+        "answer":["water"]
+      
+    },
+    {
+        "id":66,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Habitat",
+        "category":"Invul vrae",
+        "question":"'n Dier wat ander diere vang en eet:",
+        "answer":["roofdier", "roofdiere"]
+ 
     }
 ]
+    

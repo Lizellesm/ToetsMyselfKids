@@ -198,5 +198,195 @@
         "category":"Flitskaarte",
         "question":"Wie was die Griekwahoofman?",
         "answer":"Adam Kok"       
+    },
+    {
+        "id":21,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n nedersetting?",
+        "answer":"'n Plek waar mense saam woon.'"       
+    },
+    {
+        "id":22,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Noem vier soorte nedersetting.",
+        "answer":"1. Plase \n2. Klein dorpies \n3. Groter dorpies \n4. Stede"       
+    },
+    {
+        "id":23,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n plaas?",
+        "answer":"'n Groot stuk grond, \n om kos te produseer. \nDie eienaars en plaaswerkers woon daar.'"       
+    },
+    {
+        "id":24,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n klein dorpie?",
+        "answer":"Verskeie gesinne woon daar. \nDaar kan winkels wees, soms 'n skool en 'n kliniek."       
+    },
+    {
+        "id":25,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n groot dorp?",
+        "answer":"Baie mense woon en werk daar. \nDaar is winkels, skole en klinieke. Daar is ook fabrieke en kantore."       
+    },
+    {
+        "id":26,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n stad?",
+        "answer":"Duisende mense woon en werk daar. \nDaar is baie winkels, skole, hospitale, fabrieke en kantore."       
+    },
+    {
+        "id":27,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Wat is dienswerk?",
+        "answer":"'n Werk waar mense iets vir die gemeenskap doen soos 'n onderwyser of 'n dokter."       
+    },
+    {
+        "id":28,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Wat is nywerhede?",
+        "answer":"Geboue wat fabrieke genoem word."       
+    },
+    {
+        "id":29,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n voetpad?",
+        "answer":"Wanneer jy 'n pad uittrap oor 'n stuk veld of tussen huise."       
+    },
+    {
+        "id":30,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Woonplekke",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n pad?",
+        "answer":"Wanneer baie mense dieselfde paadjie gebruik word dit 'n pad."       
+    },
+    {
+        "id":30,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bakens",
+        "category":"Flitskaarte",
+        "question":"Wat is kenmerke?",
+        "answer":"Dele van iets wat opmerklik is."       
+    },
+    {
+        "id":31,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bakens",
+        "category":"Flitskaarte",
+        "question":"Wat is bakens?",
+        "answer":"Kenmerke wat uitstaan in 'n omgewing."       
+    },
+    {
+        "id":32,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bakens",
+        "category":"Flitskaarte",
+        "question":"Watter twee tipe bakens kan ons kry?",
+        "answer":"Natuurlike en mensgemaakte bakens."       
+    },
+    {
+        "id":33,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bakens",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n natuurlike baken?",
+        "answer":"'n Natuurlike baken is deel van die natuur bv. 'n rivier of 'n hoë boom."       
+    },
+    {
+        "id":34,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Bakens",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n mensgemaakte baken?",
+        "answer":"'n Mensgemaakte baken is deur 'n mens gebou bv. 'n brug of toring."       
+    },
+    {
+        "id":35,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Behoeftes",
+        "category":"Flitskaarte",
+        "question":"Noem vyf behoeftes wat mens het?",
+        "answer":"1. Woonplek \n2. Skoon water \n3. Kos \n4. Elektrisiteit \n5. Hospitale en skole."       
+    },
+    {
+        "id":36,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Behoeftes",
+        "category":"Flitskaarte",
+        "question":"Watter dienste benodig mense in groot nederstettings wat die munisipaliteit verskaf? (3)",
+        "answer":"1. Vullisverwydering \n2. Water en krane \n3. Rioolstelsel"       
+    },
+    {
+        "id":37,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Behoeftes",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n rioolstelsel?",
+        "answer":"Pype wat vuil water wegneem."       
+    },
+    {
+        "id":38,
+        "grade":"Graad 4",
+        "subject":"Geskiedenis",
+        "quarter":"Kwartaal 1",
+        "chapter":"Behoeftes",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n munisipaliteit?",
+        "answer":"Die plaaslike regering wat dienste aan 'n dorp of distrik voorsien."       
     }
 ]

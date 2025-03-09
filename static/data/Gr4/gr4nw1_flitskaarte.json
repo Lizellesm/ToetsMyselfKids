@@ -575,6 +575,149 @@
         "question":"Wat is 'n ontkieming?",
         "answer":"Die proses waar saad uitspuit of begin groei.",
         "created_by":1
+    },
+    {
+        "id":54,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n skuiling?",
+        "answer":"'n Plek met beskutting, beskerming of veilingheid.",
+        "created_by":1
+    },
+    {
+        "id":55,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Flitskaarte",
+        "question":"Hoekom het diere skuilings nodig? (3)",
+        "answer":"1. Beskerming teen die weer. \n2. Skuil teen roofdiere. \n3. Veilige plek om kleintjies groot te maak.",
+        "created_by":1
+    },
+    {
+        "id":56,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n natuurlike skuiling?",
+        "answer":"Dit is skuilings wat diere vind of self maak.",
+        "created_by":1
+    },
+    {
+        "id":57,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Flitskaarte",
+        "question":"Noem drie voorbeelde van natuurlike gevindeskuilings.",
+        "answer":"1. Grot\n2. Skulp \n3. Gat in boom",
+        "created_by":1
+    },
+    {
+        "id":58,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Flitskaarte",
+        "question":"Noem drie voorbeelde van natuurlik gemaakte skuilings.",
+        "answer":"🐝1. Byenes\n2. Miershoop \n3. Voëlnes",
+        "created_by":1
+    },
+    {
+        "id":59,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n mensgemaakte skuiling en noem twee voorbeelde?",
+        "answer":"🐶\n1. Hondehok\n2. Voëlhok",
+        "created_by":1
+    },
+    {
+        "id":60,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n struktuur?",
+        "answer":"Iets wat uit dele gemaak is en \niets stut of ondersteun.",
+        "created_by":1
+    },
+    {
+        "id":61,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n dopstruktuur en noem 'n voorbeeld?",
+        "answer":"🐚\nDit het 'n geboë vorm en \nis hol van binne, bv. 'n Slak se dop.",
+        "created_by":1
+    },
+    {
+        "id":62,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Strukture",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n raamstruktuur en noem 'n voorbeeld?",
+        "answer":"🕸\nDit is gemaak van saamgevoegde stukke, bv. 'n spinnekop se web.",
+        "created_by":1
+    },
+    {
+        "id":63,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Habitat",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n habitat?",
+        "answer":"'n Plek waar 'n plant of dier natuurlik woon.",
+        "created_by":1
+    },
+    {
+        "id":64,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Habitat",
+        "category":"Flitskaarte",
+        "question":"Noem ses verskillende tipes habitatte?",
+        "answer":"🌾1. Grasveld 2. Woud \n 3. Rivier 🌊4. See \n🏜 5. Woestyn 6. Poolstreke",
+        "created_by":1
+    },
+    {
+        "id":65,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Habitat",
+        "category":"Flitskaarte",
+        "question":"Noem vyf items wat 'n dier in sy habitat benodig.",
+        "answer":"1. Kos 2. Water \n 3. Skuilplek 4. Beskerming teen roofdiere \n 5. 'n Veilige plek om babas te kry.",
+        "created_by":1
+    },
+    {
+        "id":66,
+        "grade":"Graad 4",
+        "subject":"Natuurwetenskap",
+        "quarter":"Kwartaal 1",
+        "chapter":"Habitat",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n roofdier?",
+        "answer":"🦁\n'n Dier wat ander diere vang en eet.",
+        "created_by":1
     }
 ]
     
