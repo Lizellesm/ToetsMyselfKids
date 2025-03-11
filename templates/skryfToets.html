@@ -22,9 +22,11 @@
         .image {
             display: block;
             margin: 10px auto;
-            max-width: 100%;
+            max-width: 100%; /* Make the image larger */
             height: auto;
+            cursor: pointer; /* Add cursor pointer for better UX */
         }
+
         .buttons {
             margin-top: 20px;
             text-align: center;
@@ -123,7 +125,7 @@
                     const img = document.createElement("img");
                     img.src = `/static/images/${question.image}`;
                     img.alt = "Question Image";
-                    img.className = "image";
+                    img.className = "image img-fluid"; // Added Bootstrap class
                     questionDiv.appendChild(img);
                 }
     

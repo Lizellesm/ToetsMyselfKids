@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "grade": "Graad 6",
+        "subject": "Sosiale Wetenskappe",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Kaartwerk",
+        "text": "Wat is die grade van punt A?  ",
+        "blanks": 1,
+        "image": "grade6subjects/gr6sw1_map.jpg"
+    },
+    {
+        "id": 2,
+        "grade": "Graad 6",
+        "subject": "Sosiale Wetenskappe",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Kaartwerk",
+        "text": "Wat is die grade van punt B?  ",
+        "blanks": 1,
+        "image": "grade6subjects/gr6sw1_map.jpg"
+    },
+    {
+        "id": 3,
+        "grade": "Graad 6",
+        "subject": "Sosiale Wetenskappe",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Kaartwerk",
+        "text": "Wat is die grade van punt C?  ",
+        "blanks": 1,
+        "image": "grade6subjects/gr6sw1_map.jpg"
+    },
+    {
+        "id": 4,
+        "grade": "Graad 6",
+        "subject": "Sosiale Wetenskappe",
+        "quarter": "Kwartaal 1",
+        "category": "Skryf",
+        "chapter": "Kaartwerk",
+        "text": "Wat is die grade van punt D?  ",
+        "blanks": 1,
+        "image": "grade6subjects/gr6sw1_map.jpg"
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "id":1,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Watter lyn verbind die Noord- en Suidpool?",
+        "answer":["lentelyne"]
+    }, 
+    {
+        "id":2,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Watter lyne loop dwars oor die aardbol?",
+        "answer":["breedtelyn"]
+    },
+    {
+        "id":3,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Watter lyn verdeel die aarde in 'n Noordelike en Suidelike halfrond?",
+        "answer":["ewenaar"]
+    },
+    {
+        "id":4,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Watter lyn verdeel die aard in Oostelike en Westelike halfrondte?",
+        "answer":["Greenwich-Meridiaan"]
+    },
+    {
+        "id":5,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Noem een van die twee kortste breedtelyne op aarde?",
+        "answer":["noordpool", "suidpool"]       
+    },
+    {
+        "id":6,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Noem een van die twee plekke waar die lengtelyne mekaar kruis.",
+        "answer":["noordpool", "suidpool"]    
+    },
+    {
+        "id":7,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Wat noem ons dit as lyne oral ewe ver uit mekaar uit is? (een woord)",
+        "answer":["parallelle"]
+    },
+    {
+        "id":8,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Noem die langste breedtelyne op die aardbol.",
+        "answer":["Ewenaar"]       
+    },
+    {
+        "id":9,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Watter lyn verdeel die Oostelike en Westelike halfronde?",
+        "answer":["Greenwich-Meridiaan"]       
+    },
+    {
+        "id":10,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Watter lyn verdeel die Noordelike en Suidelike halfrond.",
+        "answer":["Ewenaar"]       
+    },
+    {
+        "id":11,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Skaal",
+        "category":"Flitskaarte",
+        "question":"Wat is 'n skaal?",
+        "answer":"Dit is die hoeveelheid \n waarmee voorwerpe \n groter of kleiner \nvoorgestel word."       
+    },
+    {
+        "id":12,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Skaal",
+        "category":"Flitskaarte",
+        "question":"Watter skaalkaart wys 'n groot gebied met min inligting?",
+        "answer":["kleinskaalkaart", "kleinskaal"]       
+    },
+    {
+        "id":13,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Skaal",
+        "category":"Flitskaarte",
+        "question":"Watter skaalkaart wys 'n klein gebied met baie inligting?",
+        "answer":["grootskaalkaart", "grootskaal"]       
+    },
+    {
+        "id":14,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Skaal",
+        "category":"Flitskaarte",
+        "question":"Watter skaal wys op 'n lyn hoeveel km deur 'n cm voorgestel word?",
+        "answer":["lynskaal"]       
+    },
+    {
+        "id":15,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Skaal",
+        "category":"Flitskaarte",
+        "question":"Watter skaal verduidelik in woorde hoeveel km deur 'n cm voorgestel word?",
+        "answer":["woordskaal"]   
+    },
+    {
+        "id":16,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Atlas",
+        "category":"Flitskaarte",
+        "question":"Watter boek verskaf vir ons inligting oor ons land, vasteland en die wêrekd? ",
+        "answer":["atlas"]      
+    },
+    
+    {
+        "id":18,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Atlas",
+        "category":"Flitskaarte",
+        "question":"Noem een grafieke wat ons in atlasse kry?",
+        "answer":["lyngrafieke","sirkeldiagramme","staafgrafieke"]       
+    },
+    {
+        "id":19,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Atlas",
+        "category":"Flitskaarte",
+        "question":"Watter ander inligting kry ons nog in atlasse behalwe kaarte en grafieke?  (2)",
+        "answer":["foto's","foto","diagramme"]   
+    },
+    {
+        "id":21,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Atlas",
+        "category":"Flitskaarte",
+        "question":"Noem die langste rivier op die aarde.",
+        "answer":["nyl"]       
+    },
+    {
+        "id":22,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Atlas",
+        "category":"Flitskaarte",
+        "question":"Noem die grootste land op aarde.",
+        "answer":["rusland"]       
+    },
+    {
+        "id":23,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Atlas",
+        "category":"Flitskaarte",
+        "question":"Waar is die grootste woud in die wêreld?",
+        "answer":["rusland"]       
+    },
+    {
+        "id":24,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Atlas",
+        "category":"Flitskaarte",
+        "question":"Noem die grootste woestyn in die wêreld.",
+        "answer":["sahara"]       
+    },
+    {
+        "id":25,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Gee die naam van die 0' Breedtelyn?",
+        "answer":["Ewenaar"]       
+    },
+    {
+        "id":26,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Gee die naam van die 90'N Breedteligging?",
+        "answer":["Noordpool"]       
+    },
+    {
+        "id":26,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Gee die naam van die 90'S Breedteligging?",
+        "answer":["Suidpool"]       
+    },
+    {
+        "id":26,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Aardbol",
+        "category":"Flitskaarte",
+        "question":"Gee die naam van die 0' lengteligging?",
+        "answer":["Greenwich-lengetelyn"]       
+    },
+    {
+        "id":27,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Limpopovallei",
+        "category":"Flitskaarte",
+        "question":"Noem een tipe gewas of dier waarmee elke familie geboer het?",
+        "answer":["sorghum", "graan","bokke", "beeste"]       
+    },
+    {
+        "id":28,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Limpopovallei",
+        "category":"Flitskaarte",
+        "question":"Omdat daar genoeg grond was en mense kon wegtrek as iemand te magtig geword het, was daar min ____.",
+        "answer":["konflik"]     
+    },
+    {
+        "id":29,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Limpopovallei",
+        "category":"Flitskaarte",
+        "question":"Wat noem ons 'n persoon wat die verlede bestudeer deur opgrawings te maak?",
+        "answer":["argeoloog"]       
+    },
+    {
+        "id":30,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Limpopovallei",
+        "category":"Flitskaarte",
+        "question":"Noem een van die twee belangrike dorpe wat argeloë in die Limpopovallei gevind het?",
+        "answer":["K2","Schroda"]       
+    },
+    {
+        "id":31,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Limpopovallei",
+        "category":"Flitskaarte",
+        "question":"Watter bewys is daar gecind dat daar handel gedryf is in die Limpopovallei?",
+        "answer":["muntskulpe"]       
+    },
+    {
+        "id":32,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Limpopovallei",
+        "category":"Flitskaarte",
+        "question":"Watter belangrike man en sy gesin het bo-op die Mapungubwe-heuwel gewoon?",
+        "answer":["koning","hoofman"]       
+    },
+    {
+        "id":33,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Limpopovallei",
+        "category":"Flitskaarte",
+        "question":"Watter bewyse het die argeoloë gevind wat wys dat mense baie lank rondom die Mapungubwe-heuwel gewoon het?",
+        "answer": ["fondasies"]     
+    },
+    {
+        "id":34,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Renoster",
+        "category":"Flitskaarte",
+        "question":"Wat beteken die naam Mapungubwe? Plek van die _____.",
+        "answer":["jakkals"]       
+    },
+    
+    
+    {
+        "id":38,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Renoster",
+        "category":"Flitskaarte",
+        "question":"Hoe het die hutte van die mense op die heuwel verskil van dié van die gewone mense? Noem een.",
+        "answer":["mooier","groter"]       
+    },
+    {
+        "id":39,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Renoster",
+        "category":"Flitskaarte",
+        "question":"Waarvan is die goue renoster gemaak? Noem een.",
+        "answer":["hout","goud"]       
+    },
+    {
+        "id":40,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Renoster",
+        "category":"Flitskaarte",
+        "question":"Die goue renoste is 'n simbool van die mag en krag van die _____.",
+        "answer":["koning"]       
+    },
+    {
+        "id":41,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Renoster",
+        "category":"Flitskaarte",
+        "question":"Watter deel van die olifant moet hulle aan die koning gegee het wanneer hul dit doodgemaak het?",
+        "answer":["tand"]     
+    },
+       
+    {
+        "id":44,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Renoster",
+        "category":"Flitskaarte",
+        "question":"In watter jaar is Mapungubwe as 'n Wêrelderfenis verklaar?",
+        "answer":["2003"]       
+    },
+    {
+        "id":45,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Renoster",
+        "category":"Flitskaarte",
+        "question":"Noem twee wenners van die 'Orde van Mapungubwe'.",
+        "answer":["Nelson Mandela","FW de Klerk"]       
+    },
+    {
+        "id":46,
+        "grade":"Graad 6",
+        "subject":"Sosiale Wetenskappe",
+        "quarter":"Kwartaal 1",
+        "chapter":"Renoster",
+        "category":"Flitskaarte",
+        "question":"Die 'Orde van Mapungubwe' is die hoogste ____ wat aan 'n Suid-Afrikaner betoon kan word.",
+        "answer":["eerbewys"]       
+    }
+]
