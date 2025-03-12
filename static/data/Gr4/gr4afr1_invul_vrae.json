@@ -839,5 +839,767 @@
         "category": "Invul vrae",
         "question": "Wat is die manlike vorm van: bruid?",
         "answer":["bruidegom"]
+    },
+    {
+        "id": 85,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: bleek?",
+        "answer":["doodsbleek"]
+    },
+    {
+        "id": 86,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: oud?",
+        "answer":["stokoud"]
+    },
+    {
+        "id": 87,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: reguit?",
+        "answer":["pylreguit"]
+    },
+    {
+        "id": 88,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vraevvvvvvvvv",
+        "question": "Wat is die intensiewe vorm van: vol?",
+        "answer":["propvol"]
+    },
+    {
+        "id": 89,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: moeg?",
+        "answer":["doodmoeg"]
+    },
+    {
+        "id": 89,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: groen?",
+        "answer":["grasgroen"]
+    },
+    {
+        "id": 90,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: bitter?",
+        "answer":["galbitter"]
+    },
+    {
+        "id": 91,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: arm?",
+        "answer":["brandarm"]
+    },
+    {
+        "id": 92,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewevvv",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: jonk?",
+        "answer":["bloedjonk"]
+    },
+    {
+        "id": 93,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vraevvvvvv",
+        "question": "Wat is die intensiewe vorm van: styf?",
+        "answer":["stokstyf"]
+    },
+    {
+        "id": 94,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: leeg?",
+        "answer":["dolleeg"]
+    },
+    {
+        "id": 95,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: kalm?",
+        "answer":["doodkalm"]
+    },
+    {
+        "id": 96,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: swart?",
+        "answer":["pikswart"]
+    },
+    {
+        "id": 97,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: koud?",
+        "answer":["yskoud"]
+    },
+    {
+        "id": 97,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: ryk?",
+        "answer":["skatryk"]
+    },
+    {
+        "id": 98,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: flou",
+        "answer":["stokflou"]
+    },
+    {
+        "id": 99,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: kwaad",
+        "answer":["smoorkwaad"]
+    },
+    {
+        "id": 100,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: swaar",
+        "answer":["loodswaar"]
+    },
+    {
+        "id": 101,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: wit",
+        "answer":["spierwit"]
+    },
+    {
+        "id": 102,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: blou",
+        "answer":["potblou"]
+    },
+    {
+        "id": 103,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: stil",
+        "answer":["doodstil","tjoepstil"]
+    },
+    {
+        "id": 103,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: fris",
+        "answer":["perdfris"]
+    },
+    {
+        "id": 104,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: krom",
+        "answer":["hoepelkrom"]
+    },
+    {
+        "id": 105,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: dun",
+        "answer":["plankdun"]
+    },
+    {
+        "id": 106,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: lig",
+        "answer":["veerlig"]
+    },
+    {
+        "id": 107,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: rooi",
+        "answer":["bloedrooi"]
+    },
+    {
+        "id": 108,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: geel",
+        "answer":["goudgeel"]
+    },
+    {
+        "id": 109,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: warm",
+        "answer":["vuurwarm"]
+    },
+    {
+        "id": 109,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: nat",
+        "answer":["sopnat","papnat"]
+    },
+    {
+        "id": 110,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Intensiewe",
+        "category": "Invul vrae",
+        "question": "Wat is die intensiewe vorm van: droog",
+        "answer":["kurkdroog"]
+    },
+    {
+        "id": 111,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: lekker",
+        "answer":["lekkers"]
+    },
+    {
+        "id": 112,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: gogga",
+        "answer":["goggas"]
+    },
+    {
+        "id": 113,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: tafel",
+        "answer":["tafels"]
+    },
+    {
+        "id": 114,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: motor",
+        "answer":["motors"]
+    },
+    {
+        "id": 115,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: venster",
+        "answer":["vensters"]
+    },
+    {
+        "id": 116,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: hond",
+        "answer":["honde"]
+    },
+    {
+        "id": 117,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: plant",
+        "answer":["plante"]
+    },
+    {
+        "id": 118,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: slang",
+        "answer":["slange"]
+    },
+    {
+        "id": 119,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: woord",
+        "answer":["woorde"]
+    },
+    {
+        "id": 120,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: speld",
+        "answer":["spelde"]
+    },
+    {
+        "id": 121,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: riet",
+        "answer":["riete"]
+    },
+    {
+        "id": 122,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: pyl",
+        "answer":["pyle"]
+    },
+    {
+        "id": 123,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: muis",
+        "answer":["muise"]
+    },
+    {
+        "id": 124,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: meeu",
+        "answer":["meeue"]
+    },
+    {
+        "id": 125,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: koek",
+        "answer":["koeke"]
+    },
+    {
+        "id": 126,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: mier",
+        "answer":["miere"]
+    },
+    {
+        "id": 127,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: pou",
+        "answer":["poue"]
+    },
+    {
+        "id": 128,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: laai",
+        "answer":["laaie"]
+    },
+    {
+        "id": 129,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: kooi",
+        "answer":["kooie"]
+    },
+    {
+        "id": 130,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: geluid",
+        "answer":["geluide"]
+    },
+    {
+        "id": 131,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: boom",
+        "answer":["bome"]
+    },
+    {
+        "id": 132,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: muur",
+        "answer":["mure"]
+    },
+    {
+        "id": 133,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: keel",
+        "answer":["kele"]
+    },
+    {
+        "id": 133,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: maan",
+        "answer":["mane"]
+    },
+    {
+        "id": 134,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: draak",
+        "answer":["drake"]
+    },
+    {
+        "id": 135,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: skool",
+        "answer":["skole"]
+    },
+    {
+        "id": 136,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: vis",
+        "answer":["visse"]
+    },
+    {
+        "id": 137,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: klok",
+        "answer":["klokke"]
+    },
+    {
+        "id": 138,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: mes",
+        "answer":["messe"]
+    },
+    
+    {
+        "id": 140,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Meervoude",
+        "category": "Invul vrae",
+        "question": "Wat is die meervoud van: dak",
+        "answer":["dakke"]
+    },
+    {
+        "id": 141,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: Mahulle",
+        "answer":["Ma-hulle"]
+    },
+    {
+        "id": 142,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: netnet",
+        "answer":["net-net"]
+    },
+    {
+        "id": 143,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: soso",
+        "answer":["so-so"]
+    },
+    {
+        "id": 144,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: WesKaap",
+        "answer":["Wes-Kaap"]
+    },
+    {
+        "id": 145,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: SuidAmerika",
+        "answer":["Suid-Amerika"]
+    },
+    {
+        "id": 146,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: reen",
+        "answer":["rëen"]
+    },
+    {
+        "id": 147,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: reen",
+        "answer":["rëen"]
+    },
+    {
+        "id": 148,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: spieel",
+        "answer":["spieël"]
+    },
+    {
+        "id": 149,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: geeet",
+        "answer":["geëet"]
+    },
+    {
+        "id": 150,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: voels",
+        "answer":["voëls"]
+    },
+    {
+        "id": 151,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: le",
+        "answer":["lê"]
+    },
+    {
+        "id": 152,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: sker",
+        "answer":["skêr"]
+    },
+    {
+        "id": 153,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: brue",
+        "answer":["bruê"]
+    },
+    {
+        "id": 154,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: wereld",
+        "answer":["wêreld"]
+    },
+    {
+        "id": 155,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: nerens",
+        "answer":["nêrens"]
+    },
+    {
+        "id": 156,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Spesiale",
+        "category": "Invul vrae",
+        "question": "Skryf die woord korrek oor: bree",
+        "answer":["breë"]
     }
+
 ]

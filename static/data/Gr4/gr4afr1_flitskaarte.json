@@ -938,6 +938,106 @@
         "category": "Flitskaarte",
         "question": "Uit die veld geslaan.",
         "answer": "Baie verbaas."
+    },
+    {
+        "id": 95,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "Nog vis nog vlees.",
+        "answer": "Jy voel uit jou plek."
+    },
+    {
+        "id": 96,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "Soos 'n vis in die water.",
+        "answer": "Jy is gemaklik waar jy is."
+    },
+    {
+        "id": 97,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "Soos 'n vis op droë grond.",
+        "answer": "Jy weet nie waar jy hoort nie."
+    },
+    {
+        "id": 98,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "Sy gee 'n handdruk soos 'n nat vis.",
+        "answer": "'n Sagte handdruk gee."
+    },
+    {
+        "id": 99,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "Iemand stroop om die mond smeer.",
+        "answer": "Iemand vlei."
+    },
+    {
+        "id": 100,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "Alles vir soetkoek opgeet.",
+        "answer": "Glo alles."
+    },
+    {
+        "id": 101,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "Soete drome.",
+        "answer": "Lekker slaap."
+    },
+    {
+        "id": 102,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "Almal proe maar die soet en die suur van die lewe.",
+        "answer": "Goeie en slegte dinge gebeur met almal."
+    },
+    {
+        "id": 103,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "'n Soettand hê.'",
+        "answer": "Baie lief wees vir soetgoed."
+    },
+    {
+        "id": 104,
+        "grade": "Graad 4",
+        "subject": "Afrikaans",
+        "quarter": "Kwartaal 1",
+        "chapter": "Idiome1",
+        "category": "Flitskaarte1",
+        "question": "'n Bitter pil om te sluk.",
+        "answer": "Dit was baie erg gewees."
     }
 
 
