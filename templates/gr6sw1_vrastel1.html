@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interaktiewe Vasvra</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css"></script>
+    <style>
+        body { font-family: Arial, sans-serif; background-color: #f8f9fa; }
+        .container { max-width: 600px; margin-top: 30px; }
+        .question-card { background: #fff; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); padding: 20px; }
+        .btn-primary { background-color: #0d6efd; border: none; }
+        .btn-primary:hover { background-color: #0056b3; }
+        .drop-zone { width: 100%; height: 50px; border: 2px dashed #ccc; text-align: center; line-height: 50px; cursor: pointer; }
+        .drag-item { padding: 5px; background-color: #ddd; cursor: grab; display: inline-block; margin: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center text-primary">Interaktiewe Vasvra</h1>
+
+        <!-- Vraag 1: Multiple Choice -->
+        <div class="question-card mb-3">
+            <h4>Vraag 1: Kies die korrekte antwoordWatter opsie pas by 'n lengtelyn?</h4>
+            <h5>Watter opsie pas by 'n lengtelyn?</h6>
+            <div class="form-check">
+                <input type="radio" name="vraag1" value="wrong" class="form-check-input"> Is die kleinste by Noord- en Suidpool
+            </div>
+            <div class="form-check">
+                <input type="radio" name="vraag1" value="wrong" class="form-check-input"> Loop dwars oor die aardbol
+            </div>
+            <div class="form-check">
+                <input type="radio" name="vraag1" value="wrong" class="form-check-input"> Verdeel die aarde in Noordelike en Suidelike halfrond
+            </div>
+            <div class="form-check">
+                <input type="radio" name="vraag1" value="correct" class="form-check-input"> Verbind die Noord- en Suidpool
+            </div>
+            <button class="btn btn-primary mt-2" onclick="checkVraag1()">Check</button>
+            <p id="vraag1-result"></p>
+        </div>
+
+        <!-- Vraag 2: Drag and Drop -->
+        <div class="question-card mb-3">
+            <h4>Vraag 2: Sleep die regte antwoord na die regte plek</h4>
+            <h5>Watter woorde pas bymekaar?</h5>
+            <div>
+                <div class="drag-item" draggable="true" id="drag1" ondragstart="drag(event)">Ewenaar</div>
+                <div class="drag-item" draggable="true" id="drag2" ondragstart="drag(event)">Greenwhich lyn</div>
+            </div>
+            <div class="drop-zone mt-2" id="drop1" ondragover="allowDrop(event)" ondrop="drop(event)">Breedtelyn</div>
+            <div class="drop-zone mt-2" id="drop2" ondragover="allowDrop(event)" ondrop="drop(event)">Lengtelyn</div>
+            <button class="btn btn-primary mt-2" onclick="checkVraag2()">Check</button>
+            <p id="vraag2-result"></p>
+        </div>
+
+        <!-- Vraag 3: Dropdown -->
+        <div class="question-card mb-3">
+            <h4>Vraag 3: Kies die korrekte antwoord:</h4>
+            <h5>Watter een verdeel die aardbol in 'n Noordelike en Suidelike halfrond?</h3>
+            <select id="vraag3" class="form-select">
+                <option value="">Kies 'n antwoord</option>
+                <option value="wrong">Greenwhich</option>
+                <option value="correct">Ewenaar</option>
+                <option value="wrong">Breedtelyn</option>
+            </select>
+            <button class="btn btn-primary mt-2" onclick="checkVraag3()">Check</button>
+            <p id="vraag3-result"></p>
+        </div>
+
+        <!-- Vraag 4: Text Input -->
+        <div class="question-card mb-3">
+            <h4>Vraag 4: Tik die korrekte antwoord in</h4>
+            <h5>Een woord vir: Die hoeveelheid waarmee voorwerpe groter of kleiner voorgestel word:</h5>
+            <input type="text" id="vraag4" class="form-control" placeholder="Tik jou antwoord in">
+            <button class="btn btn-primary mt-2" onclick="checkVraag4()">Check</button>
+            <p id="vraag4-result"></p>
+        </div>
+
+        <button class="btn btn-secondary w-100" onclick="window.print()">Druk uit</button>
+    </div>
+
+    <script>
+        function checkVraag1() {
+            let selected = document.querySelector('input[name="vraag1"]:checked');
+            document.getElementById("vraag1-result").innerText = selected && selected.value === "correct" ? "Reg!" : "Verkeerd!";
+        }
+
+        function allowDrop(event) { event.preventDefault(); }
+        function drag(event) { event.dataTransfer.setData("text", event.target.id); }
+
+        function drop(event) {
+            event.preventDefault();
+            let data = event.dataTransfer.getData("text");
+            event.target.innerText = document.getElementById(data).innerText;
+            event.target.dataset.answer = data;
+        }
+
+        function checkVraag2() {
+            let drop1 = document.getElementById("drop1").dataset.answer === "drag1";
+            let drop2 = document.getElementById("drop2").dataset.answer === "drag2";
+            document.getElementById("vraag2-result").innerText = drop1 && drop2 ? "Reg!" : "Verkeerd!";
+        }
+
+        function checkVraag3() {
+            let selected = document.getElementById("vraag3").value;
+            document.getElementById("vraag3-result").innerText = selected === "correct" ? "Reg!" : "Verkeerd!";
+        }
+
+        function checkVraag4() {
+            let answer = document.getElementById("vraag4").value.trim().toLowerCase();
+            document.getElementById("vraag4-result").innerText = answer === "skaal" ? "Reg!" : "Verkeerd!";
+        }
+    </script>
+</body>
+</html>

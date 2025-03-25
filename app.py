@@ -78,6 +78,11 @@ def gr6lv1():
 @app.route('/gr6sw1')
 def gr6sw1():
     return render_template('gr6sw1.html')
+
+@app.route('/gr6sw1_vrastel1')
+def gr6sw1_vrastel1():
+    return render_template('gr6sw1_vrastel1.html')
+
 @app.route('/gr6sw1_vrastel')
 def gr6sw1_vrastel():
     return render_template('gr6sw1_vrastel.html')
